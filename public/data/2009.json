@@ -1,0 +1,24 @@
+{
+    "year" : 2009,
+    "host" : {
+        "country" : "Russia",
+        "city" : "Moscow"
+    },
+    "entries" : {
+        1 : {
+            "country" : "Lithuania",
+            "artist" : "Sasha Son",
+            "song" : "Love"
+        },
+        2: {
+            "country" : "Israel",
+            "artist" : "Noa and Mia Awad",
+            "song" : "There Must Be Another Way"
+        },
+        3: {
+            "country" : "France",
+            "artist" : "Patricia Kaas",
+            "song" : "Et s'il fallait le faire"
+        }
+    }
+}
