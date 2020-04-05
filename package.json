@@ -1,0 +1,25 @@
+{
+  "name": "eurosong",
+  "version": "1.0.0",
+  "description": "A Eurovision live scorecard app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathan-bull/eurosong.git"
+  },
+  "keywords": [
+    "eurovision",
+    "socket",
+    "live",
+    "chat"
+  ],
+  "author": "Jonny Bull",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathan-bull/eurosong/issues"
+  },
+  "homepage": "https://github.com/jonathan-bull/eurosong#readme"
+}
