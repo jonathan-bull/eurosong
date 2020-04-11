@@ -1,0 +1,27 @@
+<form action="/create" method="post" name="create-form">
+    <div class="form__status">
+        <% if (errors.length > 0) { %>
+            <% errors.forEach(function(err){ %>
+                <p class="error"><%= err %></p>
+            <% }); %>
+        <% } %>
+    </div>
+    <div class="form__field-container form__field-container--input-text">
+        <label for="user-name">Display name</label>
+        <input name="user-name" type="text" placeholder="Engelbert Humperdinck" required />
+    </div>
+    <div class="form__field-container form__field-container--input-text">
+        <label for="user-room">Room code</label>
+        <input name="user-room" type="text" placeholder="e.g. ABBA" required />
+    </div>
+    <div class="form__field-container form__field-container--select">
+        <label for="contest-year">Contest year</label>
+        <select name="contest-year">
+            <option value="2019">2019</option>
+            <option value="2009">2009</option>
+        </select>
+    </div>
+    <div class="form__field-container form__field-container--submit">
+        <input type="submit" value="Submit">
+    </div>
+</form>

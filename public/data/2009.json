@@ -1,0 +1,162 @@
+{
+    "year" : 2009,
+    "host" : {
+        "country" : "Russia",
+        "city" : "Moscow"
+    },
+    "entries" : [
+        {
+            "order" : 1,
+            "country" : "Lithuania",
+            "performer" : "Sasha Son",
+            "song" : "Love"
+        },
+        {
+            "order" : 2,
+            "country" : "Israel",
+            "performer" : "Noa and Mia Awad",
+            "song" : "There Must Be Another Way"
+        },
+        {
+            "order" : 3,
+            "country" : "France",
+            "performer" : "Patricia Kaas",
+            "song" : "Et s'il fallait le faire"
+        },
+        {
+            "order" : 4,
+            "country" : "Sweden",
+            "performer" : "Malena Ernman",
+            "song" : "La voix"
+        },
+        {
+            "order" : 5,
+            "country" : "Croatia",
+            "performer" : "Igor Cukrov feat. Andrea",
+            "song" : "Lijepa Tena"
+        },
+        {
+            "order" : 6,
+            "country" : "Portugal",
+            "performer" : "Flor-de-Lis",
+            "song" : "Todas as ruas do amor"
+        },
+        {
+            "order" : 7,
+            "country" : "Iceland",
+            "performer" : "Yohanna",
+            "song" : "Is It True?"
+        },
+        {
+            "order" : 8,
+            "country" : "Greece",
+            "performer" : "Sakis Rouvas",
+            "song" : "This Is Our Night"
+        },
+        {
+            "order" : 9,
+            "country" : "Armenia",
+            "performer" : "Inga and Anush",
+            "song" : "Jan Jan"
+        },
+        {
+            "order" : 10,
+            "country" : "Russia",
+            "performer" : "Anastasiya Prikhodko",
+            "song" : "Mamo"
+        },
+        {
+            "order" : 11,
+            "country" : "Azerbaijan",
+            "performer" : "AySel and Arash",
+            "song" : "Always"
+        },
+        {
+            "order" : 12,
+            "country" : "Bosnia and Herzegovina",
+            "performer" : "Regina",
+            "song" : "Bistra voda"
+        },
+        {
+            "order" : 13,
+            "country" : "Moldova",
+            "performer" : "Nelly Ciobanu",
+            "song" : "Hora din Moldova"
+        },
+        {
+            "order" : 14,
+            "country" : "Malta",
+            "performer" : "Chiara",
+            "song" : "What If We"
+        },
+        {
+            "order" : 15,
+            "country" : "Estonia",
+            "performer" : "Urban Symphony",
+            "song" : "Rändajad"
+        },
+        {
+            "order" : 16,
+            "country" : "Denmark",
+            "performer" : "Niels Brinck",
+            "song" : "Believe Again"
+        },
+        {
+            "order" : 17,
+            "country" : "Germany",
+            "performer" : "Alex Swings Oscar Sings!",
+            "song" : "Miss Kiss Kiss Bang"
+        },
+        {
+            "order" : 18,
+            "country" : "Turkey",
+            "performer" : "Hadise",
+            "song" : "Düm Tek Tek"
+        },
+        {
+            "order" : 19,
+            "country" : "Albania",
+            "performer" : "Kejsi Tola",
+            "song" : "Carry Me in Your Dreams"
+        },
+        {
+            "order" : 20,
+            "country" : "Norway",
+            "performer" : "Alexander Rybak",
+            "song" : "Fairytale"
+        },
+        {
+            "order" : 21,
+            "country" : "Ukraine",
+            "performer" : "Svetlana Loboda",
+            "song" : "Be My Valentine"
+        },
+        {
+            "order" : 22,
+            "country" : "Romania",
+            "performer" : "Elena",
+            "song" : "The Balkan Girls"
+        },
+        {
+            "order" : 23,
+            "country" : "United Kingdom",
+            "performer" : "Jade Ewen",
+            "song" : "It's My Time"
+        },
+        {
+            "order" : 24,
+            "country" : "Finland",
+            "performer" : "Waldo's People",
+            "song" : "Lose Control"
+        },
+        {
+            "order" : 25,
+            "country" : "Spain",
+            "performer" : "Soraya Arnelas",
+            "song" : "La noche es para mí"
+        }
+    ]
+}
+
+
+

@@ -1,0 +1,33 @@
+<div class="scorecard__entry">
+    <div class="scorecard__meta">
+        <div class="scorecard__meta-single scorecard__meta-single--order">
+            <p class="scorecard__meta-label scorecard__meta-label--order">Order</p>
+            <p class="scorecard__meta-text scorecard__meta-text--order"><%= entry.order -%></p>
+        </div>
+        <div class="scorecard__meta-single scorecard__meta-single--country">
+            <p class="scorecard__meta-label scorecard__meta-label--country">Country</p>
+            <p class="scorecard__meta-text scorecard__meta-text--country"><%= entry.country -%></p>
+        </div>
+        <div class="scorecard__meta-single scorecard__meta-single--performer">
+            <p class="scorecard__meta-label scorecard__meta-label--performer">Performer</p>
+            <p class="scorecard__meta-text scorecard__meta-text--performer"><%= entry.performer -%></p>
+        </div>
+        <div class="scorecard__meta-single scorecard__meta-single--song">
+            <p class="scorecard__meta-label scorecard__meta-label--song">Song</p>
+            <p class="scorecard__meta-text scorecard__meta-text--song"><%= entry.song -%></p>
+        </div>
+    </div>
+    <div class="scorecard__notes">
+        <p>Display your notes</p>
+        <p>Display group notes</p>
+        <p>Enter notes</p>
+    </div>
+    <div class="scorecard__scores">
+        <%- include ('score-input', { label: 'Song', id: entry.order  }) %>
+        <%- include ('score-input', { label: 'Performance', id: entry.order }) %>
+        <%- include ('score-input', { label: 'Staging', id: entry.order }) %>
+        <%- include ('score-input', { label: 'Eurovision', id: entry.order }) %>
+        <%- include ('score-static', { label: 'Total', id: entry.order }) %>
+        <%- include ('score-static', { label: 'Ranking', id: entry.order }) %>
+    </div>
+</div>
