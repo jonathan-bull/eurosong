@@ -1,0 +1,168 @@
+{
+    "year" : 2019,
+    "host" : {
+        "country" : "Israel",
+        "city" : "Tel Aviv"
+    },
+    "entries" : [
+        {
+            "order" : 1,
+            "country" : "Malta",
+            "performer" : "Michela",
+            "song" : "Chameleon"
+        },
+        {
+            "order" : 2,
+            "country" : "Albania",
+            "performer" : "Jonida Maliqi",
+            "song" : "Ktheju tokës"
+        },
+        {
+            "order" : 3,
+            "country" : "Czech Republic",
+            "performer" : "Lake Malawi",
+            "song" : "Friend of a Friend"
+        },
+        {
+            "order" : 4,
+            "country" : "Germany",
+            "performer" : "S!sters",
+            "song" : "Sister"
+        },
+        {
+            "order" : 5,
+            "country" : "Russia",
+            "performer" : "Sergey Lazarev",
+            "song" : "Scream"
+        },
+        {
+            "order" : 6,
+            "country" : "Denmark",
+            "performer" : "Leonora",
+            "song" : "Love Is Forever"
+        },
+        {
+            "order" : 7,
+            "country" : "San Marino",
+            "performer" : "Serhat",
+            "song" : "Say Na Na Na"
+        },
+        {
+            "order" : 8,
+            "country" : "North Macedonia",
+            "performer" : "Tamara Todevska",
+            "song" : "Proud"
+        },
+        {
+            "order" : 9,
+            "country" : "Sweden",
+            "performer" : "John Lundvik",
+            "song" : "Too Late for Love"
+        },
+        {
+            "order" : 10,
+            "country" : "Slovenia",
+            "performer" : "Zala Kralj & Gašper Šantl",
+            "song" : "Sebi"
+        },
+        {
+            "order" : 11,
+            "country" : "Cyprus",
+            "performer" : "Tamta",
+            "song" : "Replay"
+        },
+        {
+            "order" : 12,
+            "country" : "Netherlands",
+            "performer" : "Duncan Laurence",
+            "song" : "Arcade"
+        },
+        {
+            "order" : 13,
+            "country" : "Moldova",
+            "performer" : "Nelly Ciobanu",
+            "song" : "Hora din Moldova"
+        },
+        {
+            "order" : 14,
+            "country" : "Israel",
+            "performer" : "Kobi Marimi",
+            "song" : "Home"
+        },
+        {
+            "order" : 15,
+            "country" : "Norway",
+            "performer" : "KEiiNO",
+            "song" : "Spirit in the Sky"
+        },
+        {
+            "order" : 16,
+            "country" : "United Kingdom",
+            "performer" : "Michael Rice",
+            "song" : "Bigger than Us"
+        },
+        {
+            "order" : 17,
+            "country" : "Iceland",
+            "performer" : "Hatari",
+            "song" : "Hatrið mun sigra"
+        },
+        {
+            "order" : 18,
+            "country" : "Estonia",
+            "performer" : "Victor Crone",
+            "song" : "Storm"
+        },
+        {
+            "order" : 19,
+            "country" : "Belarus",
+            "performer" : "ZENA",
+            "song" : "Like It"
+        },
+        {
+            "order" : 20,
+            "country" : "Azerbaijan",
+            "performer" : "Chingiz",
+            "song" : "Truth"
+        },
+        {
+            "order" : 21,
+            "country" : "France",
+            "performer" : "Bilal Hassani",
+            "song" : "Roi"
+        },
+        {
+            "order" : 22,
+            "country" : "Italy",
+            "performer" : "Mahmood",
+            "song" : "Soldi"
+        },
+        {
+            "order" : 23,
+            "country" : "Serbia",
+            "performer" : "Nevena Božović",
+            "song" : "Kruna"
+        },
+        {
+            "order" : 24,
+            "country" : "Switzerland",
+            "performer" : "Luca Hänni",
+            "song" : "She Got Me"
+        },
+        {
+            "order" : 25,
+            "country" : "Australia",
+            "performer" : "Kate Miller-Heidke",
+            "song" : "Zero Gravity"
+        },
+        {
+            "order" : 26,
+            "country" : "Spain",
+            "performer" : "Miki",
+            "song" : "La venda"
+        }
+    ]
+}
+
+
+

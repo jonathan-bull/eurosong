@@ -1,0 +1,27 @@
+<%- include ('../parts/common/header') %>
+    <div class="header">
+        <h1>Eurovision <%= data.year -%>: <%= data.host.city -%></h1>
+        <p>Room code: <%= room.code -%></p>
+    </div>
+    <div class="main">
+        <div class="main-navigation">
+            <p>Scorecard</p>
+            <p>Totals</p>
+        </div>
+
+        <div class="main-body">
+            <div class="scorecard">
+                <h2>Scorecard</h2>
+                <div class="scorecard__list">
+                    <% data.entries.forEach(function(entry){ %>
+                        <%- include ('../parts/card/entry', { entry: entry }) %>
+                    <% }); %>
+                </div>
+            </div>
+            <div class="scoreboard">
+                <h2>Scoreboard</h2>
+            </div>
+        </div>
+        
+    </div>
+<%- include ('../parts/common/footer') %>
