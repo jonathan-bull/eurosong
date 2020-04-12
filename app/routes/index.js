@@ -39,7 +39,7 @@ router.post('/login', ( req, res, next) => {
                             sessionID: req.session.id
                         };
 
-                        res.cookie('eurosong-session', JSON.stringify( cookieValue ), { maxAge: ( ( (1000 * 60) * 60 ) * 5), httpOnly: true });
+                        res.cookie('eurosong-session', JSON.stringify( cookieValue ), { maxAge: ( ( (1000 * 60) * 60 ) * 6), httpOnly: true, secure: false });
 
                         // add to participants list
                         console.dir( room.participants );
@@ -120,12 +120,19 @@ router.get( '/room/:id', ( req, res, next ) => {
                             },
                             'participants' : []
                         };
+
+                        console.dir(cookieDecode);
+
+                        let userData = {
+                            'displayName' : cookieDecode.displayName,
+                            'sessionID' : cookieDecode.sessionID
+                        };
         
                         room.participants.forEach( (val) => {
                             cleanRoom.participants.push( { 'displayName' : val.displayName, 'sessionID' : val.sessionID } );
                         });
         
-                        res.render( 'pages/year', { 'room' : cleanRoom, 'data': JSON.parse(jsonString) } );
+                        res.render( 'pages/year', { 'room' : cleanRoom, 'user' : userData,  'data': JSON.parse(jsonString) } );
                     }
                 });
             });

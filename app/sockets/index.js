@@ -4,12 +4,25 @@ var Room = require('../models/room');
 var Message = require('../models/message');
 
 var ioEvents = function (io) {
-    io.on('connection', function(socket) {
-        console.log( 'Hello there ' + socket.id );
+    const login = io.of('/login');
+    const room = io.of('/room');
+
+    login.on('connection', (socket) => {
+        console.log( 'Home page visited: ' + socket.id );
         console.log( socket.request.session.id );
-        
-        console.log( 'There are ' + io.engine.clientsCount + ' current connections' );
-        console.log();
+    });
+
+    room.on('connection', (socket) => {
+        console.log( 'Room visited: ' + socket.id );
+        console.log( socket.request.session.id );
+
+        let decodedCookie = cookie.parse( socket.request.headers.cookie );
+        if ( decodedCookie && decodedCookie['eurosong-session'] ) {
+            let decodeCookieValue = JSON.parse( decodedCookie['eurosong-session'] );
+            socket.join('room-' + decodeCookieValue.room );
+
+            console.log( 'Joined room-' + decodeCookieValue.room );
+        }
 
         socket.on('score-change', function( data ) {
             // create or update a new message
@@ -40,18 +53,15 @@ var ioEvents = function (io) {
 
                 // console.dir( fullData );
 
-                Message.findOneAndUpdate( checkData, updateData, { new: true, upsert: true }, (err, message) => {
+                Message.findOneAndUpdate( checkData, updateData, { new: true, upsert: true, useFindAndModify: false }, (err, message) => {
                     if ( err ) {
                         console.log( 'Message input error' );
                         console.dir( err );
                     }
 
                     if ( message ) {
-                        // console.dir( message );
-
-                        // nailed it
-
                         // send out the updated score
+                        socket.to('room-' + fullData.room ).emit('new-scores', fullData);
                     }
 
                 } );
@@ -59,6 +69,11 @@ var ioEvents = function (io) {
                 console.dir('Error: room code not set');
             }
         });
+    });
+
+    io.on('connection', function(socket) {
+        console.log( 'There are ' + io.engine.clientsCount + ' current connections' );
+        console.log();
 
         socket.on('disconnect', function(data){
             console.log('Goodbye friend');
