@@ -4,7 +4,9 @@
   "description": "A Eurovision live scorecard app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon run index.js",
+    "scss": "npx node-sass --watch app/scss -o public/css"
   },
   "repository": {
     "type": "git",
@@ -23,10 +25,14 @@
   },
   "homepage": "https://github.com/jonathan-bull/eurosong#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.5",
     "ejs": "^3.0.2",
     "express": "^4.17.1",
+    "express-flash": "0.0.2",
     "express-session": "^1.17.0",
     "mongoose": "^5.9.7",
+    "node-sass": "^4.13.1",
+    "node-sass-middleware": "^0.11.0",
     "socket.io": "^2.3.0"
   }
 }
