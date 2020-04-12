@@ -1,5 +1,7 @@
+var path = require('path');
 var express = require('express');
 var session = require('express-session');
+var sassMiddleware = require('node-sass-middleware');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var flash = require('express-flash');
@@ -23,6 +25,14 @@ app.use(cookieParser());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(sessionMiddleware);
+app.use(sassMiddleware({
+    src: '/app/scss',
+    dest: '/public/css',
+    root: __dirname,
+    debug: true,
+    outputStyle: 'compressed',
+    prefix: '/css'
+}));
 app.use(flash());
 app.use(express.static('public'));
 app.use('/', routes);
