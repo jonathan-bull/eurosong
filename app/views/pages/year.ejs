@@ -10,7 +10,7 @@
         </div>
 
         <div class="main-body">
-            <div class="scorecard">
+            <div class="scorecard" data-user-name="<%- user.displayName -%>" data-user-id="<%- user.sessionID -%>">
                 <h2>Scorecard</h2>
                 <div class="scorecard__list">
                     <% data.entries.forEach(function(entry){ %>
@@ -22,6 +22,5 @@
                 <h2>Scoreboard</h2>
             </div>
         </div>
-        
     </div>
-<%- include ('../parts/common/footer') %>
+    <%- include ('../parts/common/footer', { socketSpace: 'room' }) %>
