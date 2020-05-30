@@ -1,33 +1,38 @@
-<div class="scorecard__entry">
+<div class="scorecard__entry ui segment" data-entry="<%= entry.order -%>">
     <div class="scorecard__meta">
-        <div class="scorecard__meta-single scorecard__meta-single--order">
-            <p class="scorecard__meta-label scorecard__meta-label--order">Order</p>
-            <p class="scorecard__meta-text scorecard__meta-text--order"><%= entry.order -%></p>
+        <div class="scorecard__order">
+            <span class="scorecard__order-text"><%= entry.order -%></span>
         </div>
-        <div class="scorecard__meta-single scorecard__meta-single--country">
-            <p class="scorecard__meta-label scorecard__meta-label--country">Country</p>
-            <p class="scorecard__meta-text scorecard__meta-text--country"><%= entry.country -%></p>
-        </div>
-        <div class="scorecard__meta-single scorecard__meta-single--performer">
-            <p class="scorecard__meta-label scorecard__meta-label--performer">Performer</p>
-            <p class="scorecard__meta-text scorecard__meta-text--performer"><%= entry.performer -%></p>
-        </div>
-        <div class="scorecard__meta-single scorecard__meta-single--song">
-            <p class="scorecard__meta-label scorecard__meta-label--song">Song</p>
-            <p class="scorecard__meta-text scorecard__meta-text--song"><%= entry.song -%></p>
+        <h2 class="ui header">
+            <div class="content">
+                <%= entry.performer -%>
+                <div class="sub header"><%= entry.song -%></div>
+            </div>
+        </h2>
+        <div class="scorecard__country">
+            <i class="<%= entry.country -%> flag"></i>
+            <span class="scorecard__country-text"><%= entry.country -%></span>
         </div>
     </div>
-    <div class="scorecard__notes">
-        <p>Display your notes</p>
-        <p>Display group notes</p>
-        <p>Enter notes</p>
+    <div class="ui pointing secondary menu">
+        <a class="center active item" data-tab="scores-<%= entry.order -%>">Scores</a>
+        <a class="center item" data-tab="notes-<%= entry.order -%>">Notes</a>
     </div>
-    <div class="scorecard__scores">
-        <%- include ('score-input', { label: 'Song', id: entry.order  }) %>
-        <%- include ('score-input', { label: 'Performance', id: entry.order }) %>
-        <%- include ('score-input', { label: 'Staging', id: entry.order }) %>
-        <%- include ('score-input', { label: 'Eurovision', id: entry.order }) %>
-        <%- include ('score-static', { label: 'Total', id: entry.order }) %>
-        <%- include ('score-static', { label: 'Ranking', id: entry.order }) %>
+
+    <div class="ui tab scorecard__scores segments basic active" data-tab="scores-<%= entry.order -%>">
+        <div class="scorecard__votes ui segment stackable grid two column">
+            <%- include ('score-input', { label: 'Song', helper: 'The music', max: 10, id: entry.order  }) %>
+            <%- include ('score-input', { label: 'Performance', helper: 'The singing and the dancing', max: 5, id: entry.order }) %>
+            <%- include ('score-input', { label: 'Staging', helper: 'The look', max: 5, id: entry.order }) %>
+            <%- include ('score-input', { label: 'Eurovision', helper: "'Real' 'music' is a 0", max: 5, id: entry.order }) %>
+        </div>
+        <div class="scorecard__totals ui segment stackable grid two column">
+            <%- include ('score-static', { label: 'Total', id: entry.order }) %>
+            <%- include ('score-static', { label: 'Ranking', id: entry.order }) %>
+        </div>
+    </div>
+
+    <div class="ui tab scorecard__notes" data-tab="notes-<%= entry.order -%>">
+        <%- include ('notes', { label: 'Song', id: entry.order  }) %>
     </div>
 </div>

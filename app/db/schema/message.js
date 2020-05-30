@@ -10,6 +10,7 @@ var Schema = Mongoose.Schema;
 * value - value of the data.
 * songID - song the field and value relates to.
 * created - when the message was added.
+* count - number of values submitted. Applies to notes only. Defaults to 0.
 */
 
 var messageSchema = new Schema({
@@ -21,6 +22,7 @@ var messageSchema = new Schema({
     field: String,
     value: String,
     songID: String,
+    count: { type: Number, default: 0 },
     created: { type: Date, default: Date.now },
     modified: { type: Date, default: Date.now },
 });

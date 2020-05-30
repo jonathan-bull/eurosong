@@ -19,9 +19,27 @@ var ioEvents = function (io) {
         let decodedCookie = cookie.parse( socket.request.headers.cookie );
         if ( decodedCookie && decodedCookie['eurosong-session'] ) {
             let decodeCookieValue = JSON.parse( decodedCookie['eurosong-session'] );
-            socket.join('room-' + decodeCookieValue.room );
+            socket.join('room-' + decodeCookieValue.room, () => {
+                console.log( 'Joined room-' + decodeCookieValue.room );
 
-            console.log( 'Joined room-' + decodeCookieValue.room );
+                // Get all the notes
+                noteSearch = {
+                    field: "Note",
+                    room: decodeCookieValue.room
+                };
+
+                Message.find( noteSearch, function( err, message ) {
+                    // Send to the page
+                    if ( message ) {
+                        console.dir('Messages found');
+                        room.to('room-' + decodeCookieValue.room ).emit('new-notes', message);
+                        // socket.emit('new-notes', message);
+                    }
+                } );
+            } );
+
+            // Get all the user's scores
+                // Send to the page
         }
 
         socket.on('score-change', function( data ) {
@@ -48,7 +66,8 @@ var ioEvents = function (io) {
                     field: fullData.field,
                     user: fullData.user,
                     room: fullData.room,
-                    songID: fullData.songID
+                    songID: fullData.songID,
+                    count : fullData.count
                 };
 
                 // console.dir( fullData );
@@ -61,7 +80,8 @@ var ioEvents = function (io) {
 
                     if ( message ) {
                         // send out the updated score
-                        socket.to('room-' + fullData.room ).emit('new-scores', fullData);
+                        console.log('Score update sent');
+                        room.to('room-' + fullData.room ).emit('new-scores', fullData);
                     }
 
                 } );

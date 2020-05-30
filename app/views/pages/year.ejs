@@ -1,25 +1,44 @@
 <%- include ('../parts/common/header') %>
-    <div class="header">
-        <h1>Eurovision <%= data.year -%>: <%= data.host.city -%></h1>
-        <p>Room code: <%= room.code -%></p>
-    </div>
-    <div class="main">
-        <div class="main-navigation">
-            <p>Scorecard</p>
-            <p>Totals</p>
+    <div class="ui top fixed menu main-menu">
+        <div class="ui container">
+            <h1>Eurosong</h1>
+            <div class="right item">
+                <button class="ui right primary button">
+                    Log out
+                </button>
+            </div>
         </div>
-
+    </div>
+    <div class="ui container main">
         <div class="main-body">
-            <div class="scorecard" data-user-name="<%- user.displayName -%>" data-user-id="<%- user.sessionID -%>">
-                <h2>Scorecard</h2>
+            <div class="ui tab scorecard active" data-tab="scorecard" data-user-name="<%- user.displayName -%>" data-user-id="<%- user.sessionID -%>">
                 <div class="scorecard__list">
                     <% data.entries.forEach(function(entry){ %>
                         <%- include ('../parts/card/entry', { entry: entry }) %>
                     <% }); %>
                 </div>
             </div>
-            <div class="scoreboard">
-                <h2>Scoreboard</h2>
+            <div class="ui tab leaderboard" data-tab="leaderboard">
+                <div class="leaderboard__list ui segment">
+                    <table class="ui very basic celled unstackable table">
+                        <%- include ('../parts/leaderboard/header') %>
+                        <tbody>
+                            <% data.entries.forEach(function(entry){ %>
+                                <%- include ('../parts/leaderboard/entry', { entry: entry }) %>
+                            <% }); %>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="ui tab room" data-tab="room">
+                <h2>Room</h2>
+            </div>
+        </div>
+        <div class="ui fluid three item bottom fixed menu">
+            <div class="ui container">
+                <a class="item active" data-tab="scorecard">Scorecard</a>
+                <a class="item" data-tab="leaderboard">Leaderboard</a>
+                <a class="item" data-tab="room">Room</a>
             </div>
         </div>
     </div>

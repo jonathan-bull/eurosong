@@ -1,27 +1,37 @@
-<form action="/create" method="post" name="create-form">
+<form action="/create" class="ui form" method="post" name="create-form">
     <div class="form__status">
         <% if (errors.length > 0) { %>
             <% errors.forEach(function(err){ %>
-                <p class="error"><%= err %></p>
+                <div class="ui error message">
+                    <div class="header">Submit unsuccessful</div>
+                    <p><%= err %></p>
+                </div>
             <% }); %>
         <% } %>
     </div>
-    <div class="form__field-container form__field-container--input-text">
+    <div class="field form__field-container form__field-container--input-text">
         <label for="user-name">Display name</label>
         <input name="user-name" type="text" placeholder="Engelbert Humperdinck" required />
     </div>
-    <div class="form__field-container form__field-container--input-text">
+    <div class="field form__field-container form__field-container--input-text">
         <label for="user-room">Room code</label>
         <input name="user-room" type="text" placeholder="e.g. ABBA" required />
     </div>
-    <div class="form__field-container form__field-container--select">
-        <label for="contest-year">Contest year</label>
-        <select name="contest-year">
-            <option value="2019">2019</option>
-            <option value="2009">2009</option>
-        </select>
+    <div class="field">
+        <label>Year of contest</label>
+        <div class="ui selection dropdown">
+            <input type="hidden" name="contest-year">
+            <i class="dropdown icon"></i>
+            <div class="default text">Select a year</div>
+            <div class="menu">
+                <div class="item" data-value="2020">2020</div>
+                <div class="item" data-value="2019">2019</div>
+                <div class="item" data-value="2019">2018</div>
+                <div class="item" data-value="2009">2009</div>
+            </div>
+        </div>
     </div>
     <div class="form__field-container form__field-container--submit">
-        <input type="submit" value="Submit">
+        <button class="ui button" type="submit">Submit</button>
     </div>
 </form>

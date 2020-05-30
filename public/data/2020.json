@@ -1,0 +1,259 @@
+{
+    "year" : 2020,
+    "host" : {
+        "country" : "The Netherlands",
+        "city" : "Rotterdam"
+    },
+    "entries" : [
+        {
+            "order" : 1,
+            "country" : "Sweden",
+            "performer" : "The Mamas",
+            "song" : "Move"
+        },
+        {
+            "order" : 2,
+            "country" : "Belarus",
+            "performer" : "VAL",
+            "song" : "Da Vidna"
+        },
+        {
+            "order" : 3,
+            "country" : "Australia",
+            "performer" : "Montaigne",
+            "song" : "Don't Break Me"
+        },
+        {
+            "order" : 4,
+            "country" : "North Macedonia",
+            "performer" : "Vasil",
+            "song" : "YOU"
+        },
+        {
+            "order" : 5,
+            "country" : "Slovenia",
+            "performer" : "Ana Soklič",
+            "song" : "Voda"
+        },
+        {
+            "order" : 6,
+            "country" : "Lithuania",
+            "performer" : "The Roop",
+            "song" : "On Fire"
+        },
+        {
+            "order" : 7,
+            "country" : "Ireland",
+            "performer" : "Lesley Roy",
+            "song" : "Story Of My Life"
+        },
+        {
+            "order" : 8,
+            "country" : "Russia",
+            "performer" : "Little Big",
+            "song" : "Uno"
+        },
+        {
+            "order" : 9,
+            "country" : "Belgium",
+            "performer" : "Hooverphonic",
+            "song" : "Release Me"
+        },
+        {
+            "order" : 10,
+            "country" : "Malta",
+            "performer" : "Destiny",
+            "song" : "All Of My Love"
+        },
+        {
+            "order" : 11,
+            "country" : "Croatia",
+            "performer" : "Damir Kedžo",
+            "song" : "Divlji Vjetre"
+        },
+        {
+            "order" : 12,
+            "country" : "Azerbaijan",
+            "performer" : "Efendi",
+            "song" : "Cleopatra"
+        },
+        {
+            "order" : 13,
+            "country" : "Cyprus",
+            "performer" : "Sandro",
+            "song" : "Running"
+        },
+        {
+            "order" : 14,
+            "country" : "Norway",
+            "performer" : "Ulrikke",
+            "song" : "Attention"
+        },
+        {
+            "order" : 15,
+            "country" : "Israel",
+            "performer" : "Eden Alene",
+            "song" : "Feker Libi"
+        },
+        {
+            "order" : 16,
+            "country" : "Romania",
+            "performer" : "ROXEN",
+            "song" : "Alcohol You"
+        },
+        {
+            "order" : 17,
+            "country" : "Ukraine",
+            "performer" : "Go_A",
+            "song" : "Solovey"
+        },
+        {
+            "order" : 18,
+            "country" : "Italy",
+            "performer" : "Diodata",
+            "song" : "Fai Rumore"
+        },
+        {
+            "order" : 19,
+            "country" : "Germany",
+            "performer" : "Ben Dolic",
+            "song" : "Violent Thing"
+        },
+        {
+            "order" : 20,
+            "country" : "The Netherlands",
+            "performer" : "Jeangu Macrooy",
+            "song" : "Grow"
+        },
+
+        {
+            "order" : 21,
+            "country" : "Greece",
+            "performer" : "Stefania",
+            "song" : "Supergirl"
+        },
+        {
+            "order" : 22,
+            "country" : "Estonia",
+            "performer" : "Uku Suviste",
+            "song" : "What Love Is"
+        },
+        {
+            "order" : 23,
+            "country" : "Austria",
+            "performer" : "Vincent Bueno",
+            "song" : "Alive"
+        },
+        {
+            "order" : 24,
+            "country" : "Moldova",
+            "performer" : "Natalia Gordienko",
+            "song" : "Prison"
+        },
+        {
+            "order" : 25,
+            "country" : "San Marino",
+            "performer" : "Senhit",
+            "song" : "Freaky!"
+        },
+        {
+            "order" : 26,
+            "country" : "Czech Republic",
+            "performer" : "Benny Cristo",
+            "song" : "Kemama"
+        },
+        {
+            "order" : 27,
+            "country" : "Serbia",
+            "performer" : "Hurricane",
+            "song" : "Hasta La Vista"
+        },
+        {
+            "order" : 28,
+            "country" : "Poland",
+            "performer" : "Alicja",
+            "song" : "Empires"
+        },
+        {
+            "order" : 29,
+            "country" : "Iceland",
+            "performer" : "Daði og Gagnamagnið",
+            "song" : "Think About Things"
+        },
+        {
+            "order" : 30,
+            "country" : "Switzerland",
+            "performer" : "Gjon's Tears",
+            "song" : "Répondez-moi"
+        },
+        {
+            "order" : 31,
+            "country" : "Denmark",
+            "performer" : "Ben & Tan",
+            "song" : "Yes"
+        },
+        {
+            "order" : 32,
+            "country" : "Albania",
+            "performer" : "Arilena Ara",
+            "song" : "Fall From The Sky"
+        },
+        {
+            "order" : 33,
+            "country" : "Finland",
+            "performer" : "Aksel",
+            "song" : "Looking Back"
+        },
+        {
+            "order" : 34,
+            "country" : "Armenia",
+            "performer" : "Athena Manoukian",
+            "song" : "Chains On You"
+        },
+        {
+            "order" : 35,
+            "country" : "Portugal",
+            "performer" : "Elisa",
+            "song" : "Medo De Sentir"
+        },
+        {
+            "order" : 36,
+            "country" : "Georgia",
+            "performer" : "Tornike Kipiani",
+            "song" : "Take Me As I Am"
+        },
+        {
+            "order" : 37,
+            "country" : "Bulgaria",
+            "performer" : "Victoria",
+            "song" : "Tears Getting Sober"
+        },
+        {
+            "order" : 38,
+            "country" : "Latvia",
+            "performer" : "Samanta Tīna",
+            "song" : "Still Breathing"
+        },
+        {
+            "order" : 39,
+            "country" : "France",
+            "performer" : "Tom Leeb",
+            "song" : "Mon Alliée (The Best In Me)"
+        },
+        {
+            "order" : 40,
+            "country" : "United Kingdom",
+            "performer" : "James Newman",
+            "song" : "My Last Breath"
+        },
+        {
+            "order" : 41,
+            "country" : "Spain",
+            "performer" : "Blas Cantó",
+            "song" : "Universo"
+        }
+    ]
+}
+
+
+
