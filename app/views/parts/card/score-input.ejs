@@ -1,14 +1,7 @@
-<div class="score" data-score-label="<%= label -%>" data-score-value="0" data-score-id="<%= id -%>">
+<div class="score">
     <div class="score__label">
-        <%= label -%>
+        <p class="score__label-main"><%= label -%></p>
+        <p class="score__label-helper"><%= helper -%></p>
     </div>
-    <div class="score__control">
-        <p class="score__change score__change--decrease" data-score-action="decrease">-</p>
-        <p class="score__value">0</p>
-        <p class="score__change score__change--increase" data-score-action="increase">+</p>
-    </div>
-    <div class="score__average">
-        <p class="score__label">Room average</p>
-        <p class="score__value">0</p>
-    </div>
+    <div class="ui labeled ticked blue slider" data-score-max="<%= max -%>" data-score-label="<%= label -%>" data-score-value="0" data-score-id="<%= id -%>"></div>
 </div>

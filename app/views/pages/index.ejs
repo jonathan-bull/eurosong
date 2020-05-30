@@ -1,17 +1,19 @@
 <%- include ('../parts/common/header') %>
-    <div class="header">
-        <h1>Eurovision scorecard</h1>
-    </div>
-    <div class="main">
-        <div class="tab__navigation">
-            <p data-tab-show="join-room">Join a room</p>
-            <p data-tab-show="create-room">Create a new room</p>
+    <div class="ui top fixed menu main-menu">
+        <div class="ui container">
+            <h1>Eurosong</h1>
         </div>
-        <div class="join-room__body" data-tab-body="join-room">
+    </div>
+    <div class="main ui container">
+        <div class="ui top attached tabular menu">
+            <div class="active item" data-tab="join-room">Join a room</div>
+            <div class="item" data-tab="create-room">Create a room</div>
+        </div>
+        <div class="ui bottom attached active tab segment" data-tab="join-room">
             <p>Enter a room code and your display name.</p>
             <%- include ('../parts/form/join', { errors: joinErrors } ) %>
         </div>
-        <div class="create-room__body" data-tab-body="create-room">
+        <div class="ui bottom attached tab segment" data-tab="create-room">
             <p>Create a new room for you and your pals to join.</p>
             <%- include ('../parts/form/create', { errors: createErrors }) %>
         </div>

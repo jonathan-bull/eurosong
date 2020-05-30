@@ -35,6 +35,7 @@ app.use(sassMiddleware({
 }));
 app.use(flash());
 app.use(express.static('public'));
+app.use(express.static('semantic/dist'));
 app.use('/', routes);
 
 var sockets = require('./app/sockets')(app, sessionMiddleware);

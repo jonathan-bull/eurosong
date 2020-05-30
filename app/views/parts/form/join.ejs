@@ -1,20 +1,23 @@
-<form action="/login" method="post" name="join-form">
+<form action="/login" class="ui form" method="post" name="join-form">
     <div class="form__status">
         <% if (errors.length > 0) { %>
             <% errors.forEach(function(err){ %>
-                <p class="error"><%= err %></p>
+                <div class="ui error message">
+                    <div class="header">Submit unsuccessful</div>
+                    <p class="error"><%= err %></p>
+                </div>
             <% }); %>
         <% } %>
     </div>
-    <div class="form__field-container form__field-container--input-text">
+    <div class="field form__field-container form__field-container--input-text">
         <label for="user-name">Display name</label>
         <input name="user-name" type="text" placeholder="Engelbert Humperdinck" required />
     </div>
-    <div class="form__field-container form__field-container--input-text">
+    <div class="field form__field-container form__field-container--input-text">
         <label for="user-room">Room code</label>
         <input name="user-room" type="text" placeholder="e.g. ABBA" required />
     </div>
     <div class="form__field-container form__field-container--submit">
-        <input type="submit" value="Submit">
+        <button class="ui button" type="submit">Submit</button>
     </div>
 </form>

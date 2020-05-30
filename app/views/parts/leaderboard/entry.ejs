@@ -1,0 +1,18 @@
+<tr class="leaderboard__row" data-leaderboard-id="<%= entry.order -%>" data-leaderboard-score="0" data-leaderboard-rank="0">
+    <td>
+        <div class="leaderboard__entry">
+            <h2 class="ui header">
+                <div class="content">
+                    <%= entry.performer -%>
+                    <div class="sub header"><%= entry.song -%></div>
+                </div>
+            </h2>
+            <div class="scorecard__country">
+                <i class="<%= entry.country -%> flag"></i>
+                <span class="scorecard__country-text"><%= entry.country -%></span>
+            </div>
+        </div>
+    </td>
+    <td class="leaderboard__score">0</td>
+    <td class="leaderboard__points">0</td>
+</tr>
