@@ -22,6 +22,21 @@ var ioEvents = function (io) {
             socket.join('room-' + decodeCookieValue.room, () => {
                 console.log( 'Joined room-' + decodeCookieValue.room );
 
+                // Get all the user's scores
+                scoreSearch = {
+                    room: decodeCookieValue.room,
+                    user: { 'sessionID': socket.request.session.id, 'displayName' : decodeCookieValue.displayName }
+                }
+
+                console.dir( scoreSearch );
+                // Send to the page
+                Message.find( scoreSearch, function( err, message ) {
+                    if ( message ) {
+                        console.dir('Scores found');
+                        room.to('room-' + decodeCookieValue.room).emit('initial-scores', message);
+                    }
+                });
+
                 // Get all the notes
                 noteSearch = {
                     field: "Note",
@@ -38,8 +53,7 @@ var ioEvents = function (io) {
                 } );
             } );
 
-            // Get all the user's scores
-                // Send to the page
+            
         }
 
         socket.on('score-change', function( data ) {

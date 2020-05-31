@@ -91,6 +91,14 @@ const insertNotes = (notes)  => {
     } );
 }
 
+const setInitialScores = ( scores ) => {
+    console.dir(scores);
+}
+
+socket.on( 'initial-scores', (data) => {
+    setInitialScores(data);
+});
+
 socket.on( 'new-scores', (data) => {
     if ( data.field === 'Note' ) {
         console.log('Got a new note');

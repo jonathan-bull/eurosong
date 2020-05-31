@@ -56,6 +56,10 @@ router.post('/login', ( req, res, next) => {
 
 });
 
+router.post('/logout', ( req, res) => {
+
+});
+
 router.post('/create', ( req, res ) => {
     // all fields entered
     if ( req.body['user-name'] === '' || req.body['user-room'] === '' || req.body['contest-year'] === '' ) {
@@ -80,11 +84,23 @@ router.post('/create', ( req, res ) => {
                     'year' : req.body['contest-year'],
                     'participants' : [ { 'sessionID': req.session.id, 'displayName' : req.body['user-name'] } ]
                 };
-                
+
                 Room.create( roomCredentials , function(err, newRoom){
 					if ( err ) {
                         console.log( 'Room create error' );
                         console.dir( err );
+                    }
+
+                    if ( req.cookies.cookieName ) {
+                        console.dir( req.cookies.cookieName );
+                    } else {
+                        let cookieValue = {
+                            room : req.body['user-room'].toUpperCase(),
+                            displayName: req.body['user-name'],
+                            sessionID: req.session.id
+                        };
+
+                        res.cookie('eurosong-session', JSON.stringify( cookieValue ), { maxAge: ( ( (1000 * 60) * 60 ) * 6), httpOnly: true, secure: false });
                     }
 
 					req.flash('create-success', 'Room created');
