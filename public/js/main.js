@@ -93,6 +93,33 @@ const insertNotes = (notes)  => {
 
 const setInitialScores = ( scores ) => {
     console.dir(scores);
+
+    scores.forEach( ( obj, i ) => {
+        if ( $('[data-score-label="' + obj.field +'"][data-score-id="' + obj.songID + '"]').length > 0 ) {
+            var activeElement = $('[data-score-label="' + obj.field +'"][data-score-id="' + obj.songID + '"]');
+            console.dir( activeElement );
+
+            activeElement.attr('data-score-value', parseInt(obj.value, 10) );
+            totalScores( obj.songID );
+        }
+    } );
+
+    $('.ui.slider').each( function(index) {
+        $(this).slider({
+            min: 0,
+            max: $(this).data('scoreMax'),
+            start: $(this).data('scoreValue'),
+            step: 1,
+            smooth: true,
+            onChange: function(e) {
+                sliderChange(e, $(this) );
+            }
+        });
+    } );
+
+    rankingOrder();
+
+
 }
 
 socket.on( 'initial-scores', (data) => {
@@ -248,19 +275,6 @@ var sliderChange = function ( value, element ) {
 
 $('.menu .item').tab();
 $('.ui.dropdown').dropdown();
-
-$('.ui.slider').each( function(index) {
-    $(this).slider({
-        min: 0,
-        max: $(this).data('scoreMax'),
-        start: $(this).data('scoreValue'),
-        step: 1,
-        smooth: true,
-        onChange: function(e) {
-            sliderChange(e, $(this) );
-        }
-    });
-} );
 
 $('.note__form .note__submit').on('click', function(e) {
     var songID = $(this).parent().find('input').data('entry');

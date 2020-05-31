@@ -25,7 +25,7 @@ var ioEvents = function (io) {
                 // Get all the user's scores
                 scoreSearch = {
                     room: decodeCookieValue.room,
-                    user: { 'sessionID': socket.request.session.id, 'displayName' : decodeCookieValue.displayName }
+                    "user.displayName" : decodeCookieValue.displayName
                 }
 
                 console.dir( scoreSearch );

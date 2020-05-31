@@ -107,6 +107,7 @@ router.post('/create', ( req, res ) => {
     }
 });
 
+// Logout
 router.get('/logout', ( req, res, next ) => {
     res.clearCookie('eurosong-session');
     res.redirect('/');
@@ -117,7 +118,7 @@ router.get('/logout', ( req, res, next ) => {
 router.get( '/room/:id', ( req, res, next ) => {
     if ( req.cookies['eurosong-session'] ) { 
         let cookieDecode = JSON.parse( req.cookies['eurosong-session'] );
-    
+
         if ( cookieDecode.room.toUpperCase() === req.params.id.toUpperCase() ) {
             Room.findOne({"code": req.params.id.toUpperCase(), "status" : "open" }, (err, room) => {
                 if(err) throw err;
