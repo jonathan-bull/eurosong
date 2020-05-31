@@ -50,13 +50,9 @@ router.post('/login', ( req, res, next) => {
                     req.flash('join-error', 'Room does not exist');
                     res.redirect('/');
                 }
-            });   
+            });
         }
     }
-
-});
-
-router.post('/logout', ( req, res) => {
 
 });
 
@@ -110,6 +106,12 @@ router.post('/create', ( req, res ) => {
         });
     }
 });
+
+router.get('/logout', ( req, res, next ) => {
+    res.clearCookie('eurosong-session');
+    res.redirect('/');
+});
+
 
 // Room
 router.get( '/room/:id', ( req, res, next ) => {
