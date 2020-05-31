@@ -50,7 +50,7 @@ router.post('/login', ( req, res, next) => {
                     req.flash('join-error', 'Room does not exist');
                     res.redirect('/');
                 }
-            });   
+            });
         }
     }
 
@@ -80,11 +80,23 @@ router.post('/create', ( req, res ) => {
                     'year' : req.body['contest-year'],
                     'participants' : [ { 'sessionID': req.session.id, 'displayName' : req.body['user-name'] } ]
                 };
-                
+
                 Room.create( roomCredentials , function(err, newRoom){
 					if ( err ) {
                         console.log( 'Room create error' );
                         console.dir( err );
+                    }
+
+                    if ( req.cookies.cookieName ) {
+                        console.dir( req.cookies.cookieName );
+                    } else {
+                        let cookieValue = {
+                            room : req.body['user-room'].toUpperCase(),
+                            displayName: req.body['user-name'],
+                            sessionID: req.session.id
+                        };
+
+                        res.cookie('eurosong-session', JSON.stringify( cookieValue ), { maxAge: ( ( (1000 * 60) * 60 ) * 6), httpOnly: true, secure: false });
                     }
 
 					req.flash('create-success', 'Room created');
@@ -95,11 +107,18 @@ router.post('/create', ( req, res ) => {
     }
 });
 
+// Logout
+router.get('/logout', ( req, res, next ) => {
+    res.clearCookie('eurosong-session');
+    res.redirect('/');
+});
+
+
 // Room
 router.get( '/room/:id', ( req, res, next ) => {
     if ( req.cookies['eurosong-session'] ) { 
         let cookieDecode = JSON.parse( req.cookies['eurosong-session'] );
-    
+
         if ( cookieDecode.room.toUpperCase() === req.params.id.toUpperCase() ) {
             Room.findOne({"code": req.params.id.toUpperCase(), "status" : "open" }, (err, room) => {
                 if(err) throw err;
