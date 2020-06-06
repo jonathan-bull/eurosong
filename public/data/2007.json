@@ -1,0 +1,225 @@
+{
+    "year" : 2007,
+    "host" : {
+        "country" : "Finland",
+        "city" : "Helsinki"
+    },
+    "entries" : [
+        {
+          "order": 1,
+          "country": "Bosnia and Herzegovina",
+          "performer": "Marija Šestić",
+          "song": "Rijeka bez imena",
+          "language": "Serbian",
+          "place": 11,
+          "points": 106
+        },
+        {
+          "order": 2,
+          "country": "Spain",
+          "performer": "D'NASH",
+          "song": "I Love You Mi Vida",
+          "language": "Spanish",
+          "place": 20,
+          "points": 43
+        },
+        {
+          "order": 3,
+          "country": "Belarus",
+          "performer": "Dmitry Koldun",
+          "song": "Work Your Magic",
+          "language": "English",
+          "place": 6,
+          "points": 145
+        },
+        {
+          "order": 4,
+          "country": "Ireland",
+          "performer": "Dervish",
+          "song": "They Can't Stop the Spring",
+          "language": "English",
+          "place": 24,
+          "points": 5
+        },
+        {
+          "order": 5,
+          "country": "Finland",
+          "performer": "Hanna Pakarinen",
+          "song": "Leave Me Alone",
+          "language": "English",
+          "place": 17,
+          "points": 53
+        },
+        {
+          "order": 6,
+          "country": "Macedonia",
+          "performer": "Karolina",
+          "song": "Mojot svet",
+          "language": "Macedonian, English",
+          "place": 14,
+          "points": 73
+        },
+        {
+          "order": 7,
+          "country": "Slovenia",
+          "performer": "Alenka Gotar",
+          "song": "Cvet z juga",
+          "language": "Slovene",
+          "place": 15,
+          "points": 66
+        },
+        {
+          "order": 8,
+          "country": "Hungary",
+          "performer": "Magdi Rúzsa",
+          "song": "Unsubstantial Blues",
+          "language": "English",
+          "place": 9,
+          "points": 128
+        },
+        {
+          "order": 9,
+          "country": "Lithuania",
+          "performer": "4Fun",
+          "song": "Love or Leave",
+          "language": "English",
+          "place": 21,
+          "points": 28
+        },
+        {
+          "order": 10,
+          "country": "Greece",
+          "performer": "Sarbel",
+          "song": "Yassou Maria",
+          "language": "English",
+          "place": 7,
+          "points": 139
+        },
+        {
+          "order": 11,
+          "country": "Georgia",
+          "performer": "Sopho Khalvashi",
+          "song": "Visionary Dream",
+          "language": "English",
+          "place": 12,
+          "points": 97
+        },
+        {
+          "order": 12,
+          "country": "Sweden",
+          "performer": "The Ark",
+          "song": "The Worrying Kind",
+          "language": "English",
+          "place": 18,
+          "points": 51
+        },
+        {
+          "order": 13,
+          "country": "France",
+          "performer": "Les Fatals Picards",
+          "song": "L'amour à la française",
+          "language": "French, English",
+          "place": 22,
+          "points": 19
+        },
+        {
+          "order": 14,
+          "country": "Latvia",
+          "performer": "Bonaparti.lv",
+          "song": "Questa notte",
+          "language": "Italian",
+          "place": 16,
+          "points": 54
+        },
+        {
+          "order": 15,
+          "country": "Russia",
+          "performer": "Serebro",
+          "song": "Song #1",
+          "language": "English",
+          "place": 3,
+          "points": 207
+        },
+        {
+          "order": 16,
+          "country": "Germany",
+          "performer": "Roger Cicero",
+          "song": "Frauen regier'n die Welt",
+          "language": "German",
+          "place": "English",
+          "points": 19
+        },
+        {
+          "order": 17,
+          "country": "Serbia",
+          "performer": "Marija Šerifović",
+          "song": "Molitva",
+          "language": "Serbian",
+          "place": 1,
+          "points": 268
+        },
+        {
+          "order": 18,
+          "country": "Ukraine",
+          "performer": "Verka Serduchka",
+          "song": "Dancing Lasha Tumbai",
+          "language": "German, English, Ukrainian, Russian",
+          "place": 2,
+          "points": 235
+        },
+        {
+          "order": 19,
+          "country": "United Kingdom",
+          "performer": "Scooch",
+          "song": "Flying the Flag (For You)",
+          "language": "English",
+          "place": 22,
+          "points": 19
+        },
+        {
+          "order": 20,
+          "country": "Romania",
+          "performer": "Todomondo",
+          "song": "Liubi, Liubi, I Love You",
+          "language": "English, Italian, Spanish, Russian, French, Romanian",
+          "place": 13,
+          "points": 84
+        },
+        {
+          "order": 21,
+          "country": "Bulgaria",
+          "performer": "Elitsa Todorova & Stoyan Yankoulov",
+          "song": "Water",
+          "language": "Bulgarian",
+          "place": 5,
+          "points": 157
+        },
+        {
+          "order": 22,
+          "country": "Turkey",
+          "performer": "Kenan Doğulu",
+          "song": "Shake It Up Şekerim",
+          "language": "English",
+          "place": 4,
+          "points": 163
+        },
+        {
+          "order": 23,
+          "country": "Armenia",
+          "performer": "Hayko",
+          "song": "Anytime You Need",
+          "language": "English",
+          "place": "Armenian",
+          "points": 8
+        },
+        {
+          "order": 24,
+          "country": "Moldova",
+          "performer": "Natalia Barbu",
+          "song": "Fight",
+          "language": "English",
+          "place": 10,
+          "points": 109
+        }
+      ]
+}

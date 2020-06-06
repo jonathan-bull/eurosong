@@ -1,0 +1,216 @@
+{
+    "year" : 2001,
+    "host" : {
+        "country" : "Denmark",
+        "city" : "Copenhagen"
+    },
+    "entries" : [
+        {
+          "order": 1,
+          "country": "Netherlands",
+          "performer": "Michelle",
+          "song": "Out on My Own",
+          "language": "English",
+          "place": 18,
+          "points": 16
+        },
+        {
+          "order": 2,
+          "country": "Iceland",
+          "performer": "Two Tricky",
+          "song": "Angel",
+          "language": "English",
+          "place": 22,
+          "points": 3
+        },
+        {
+          "order": 3,
+          "country": "Bosnia and Herzegovina",
+          "performer": "Nino Pršeš",
+          "song": "Hano",
+          "language": "Bosnian, English",
+          "place": 14,
+          "points": 29
+        },
+        {
+          "order": 4,
+          "country": "Norway",
+          "performer": "Haldor Lægreid",
+          "song": "On My Own",
+          "language": "English",
+          "place": 22,
+          "points": 3
+        },
+        {
+          "order": 5,
+          "country": "Israel",
+          "performer": "Tal Sondak",
+          "song": "En Davar",
+          "language": "Hebrew",
+          "place": 16,
+          "points": 25
+        },
+        {
+          "order": 6,
+          "country": "Russia",
+          "performer": "Mumiy Troll",
+          "song": "Lady Alpine Blue",
+          "language": "English",
+          "place": 12,
+          "points": 37
+        },
+        {
+          "order": 7,
+          "country": "Sweden",
+          "performer": "Friends",
+          "song": "Listen to Your Heartbeat",
+          "language": "English",
+          "place": 5,
+          "points": 100
+        },
+        {
+          "order": 8,
+          "country": "Lithuania",
+          "performer": "SKAMP",
+          "song": "You Got Style",
+          "language": "English, Lithuanian",
+          "place": 13,
+          "points": 35
+        },
+        {
+          "order": 9,
+          "country": "Latvia1",
+          "performer": "Arnis Mednis",
+          "song": "Too Much",
+          "language": "English",
+          "place": 18,
+          "points": 16
+        },
+        {
+          "order": 10,
+          "country": "Croatia",
+          "performer": "Vanna",
+          "song": "Strings of My Heart",
+          "language": "English",
+          "place": 10,
+          "points": 42
+        },
+        {
+          "order": 11,
+          "country": "Portugal1",
+          "performer": "MTM",
+          "song": "Só sei ser feliz assim",
+          "language": "Portuguese",
+          "place": 17,
+          "points": 18
+        },
+        {
+          "order": 12,
+          "country": "Ireland",
+          "performer": "Gary O'Shaughnessy",
+          "song": "Without Your Love",
+          "language": "English",
+          "place": 21,
+          "points": 6
+        },
+        {
+          "order": 13,
+          "country": "Spain",
+          "performer": "David Civera",
+          "song": "Dile que la quiero",
+          "language": "Spanish",
+          "place": 6,
+          "points": 76
+        },
+        {
+          "order": 14,
+          "country": "France",
+          "performer": "Natasha St-Pier",
+          "song": "Je n'ai que mon âme",
+          "language": "French, English",
+          "place": 4,
+          "points": 142
+        },
+        {
+          "order": 15,
+          "country": "Turkey",
+          "performer": "Sedat Yüce",
+          "song": "Sevgiliye Son",
+          "language": "Turkish, English",
+          "place": 11,
+          "points": 41
+        },
+        {
+          "order": 16,
+          "country": "United Kingdom",
+          "performer": "Lindsay Dracass",
+          "song": "No Dream Impossible",
+          "language": "English",
+          "place": 15,
+          "points": 28
+        },
+        {
+          "order": 17,
+          "country": "Slovenia",
+          "performer": "Nuša Derenda",
+          "song": "Energy",
+          "language": "English",
+          "place": 7,
+          "points": 70
+        },
+        {
+          "order": 18,
+          "country": "Poland",
+          "performer": "Piasek",
+          "song": "2 Long",
+          "language": "English",
+          "place": 20,
+          "points": 11
+        },
+        {
+          "order": 19,
+          "country": "Germany",
+          "performer": "Michelle",
+          "song": "Wer Liebe lebt",
+          "language": "German, English",
+          "place": 8,
+          "points": 66
+        },
+        {
+          "order": 20,
+          "country": "Estonia",
+          "performer": "Tanel Padar, Dave Benton & 2XL",
+          "song": "Everybody",
+          "language": "English",
+          "place": 1,
+          "points" : 198
+        },
+        {
+          "order": 21,
+          "country": "Malta",
+          "performer": "Fabrizio Faniello",
+          "song": "Another Summer Night",
+          "language": "English",
+          "place": 9,
+          "points": 48
+        },
+        {
+          "order": 22,
+          "country": "Greece",
+          "performer": "Antique",
+          "song": "(I Would) Die for You",
+          "language": "Greek",
+          "place": "English",
+          "points": 3
+        },
+        {
+          "order": 23,
+          "country": "Denmark",
+          "performer": "Rollo & King",
+          "song": "Never Ever Let You Go",
+          "language": "English",
+          "place": 2,
+          "points": 177
+        }
+      ]
+}

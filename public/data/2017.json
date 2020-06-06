@@ -1,0 +1,165 @@
+{
+    "year" : 2017,
+    "host" : {
+        "country" : "Ukraine",
+        "city" : "Kiev"
+    },
+    "entries" : [
+        {
+            "order" : 1,
+            "country" : "Israel",
+            "performer" : "IMRI",
+            "song" : "I Feel Alive"
+        },
+        {
+            "order" : 2,
+            "country" : "Poland",
+            "performer" : "Kasia Moś",
+            "song" : "Flashlight"
+        },
+        {
+            "order" : 3,
+            "country" : "Belarus",
+            "performer" : "Naviband",
+            "song" : "Story of My Life"
+        },
+        {
+            "order" : 4,
+            "country" : "Austria",
+            "performer" : "Nathan Trent",
+            "song" : "Running on Air"
+        },
+        {
+            "order" : 5,
+            "country" : "Armenia",
+            "performer" : "Artsvik",
+            "song" : "Fly With Me"
+        },
+        {
+            "order" : 6,
+            "country" : "Netherlands",
+            "performer" : "O'G3NE",
+            "song" : "Lights and Shadows"
+        },
+        {
+            "order" : 7,
+            "country" : "Moldova",
+            "performer" : "Sunstroke Project",
+            "song" : "Hey, Mamma!"
+        },
+        {
+            "order" : 8,
+            "country" : "Hungary",
+            "performer" : "Joci Pápai",
+            "song" : "Origo"
+        },
+        {
+            "order" : 9,
+            "country" : "Italy",
+            "performer" : "Francesco Gabbani",
+            "song" : "Occidentali's Karma"
+        },
+        {
+            "order" : 10,
+            "country" : "Denmark",
+            "performer" : "Anja",
+            "song" : "Where I Am"
+        },
+        {
+            "order" : 11,
+            "country" : "Portugal",
+            "performer" : "Salvador Sobral",
+            "song" : "Amar pelos dois"
+        },
+        {
+            "order" : 12,
+            "country" : "Azerbaijan",
+            "performer" : "Dihaj",
+            "song" : "Skeletons"
+        },
+        {
+            "order" : 13,
+            "country" : "Croatia",
+            "performer" : "Jacques Houdek",
+            "song" : "My Friend"
+        },
+        { 
+            "order" : 14,
+            "country" : "Australia",
+            "performer" : "Isaiah",
+            "song" : "Don't Come Easy"
+        },
+        {
+            "order" : 15,
+            "country" : "Greece",
+            "performer" : "Demy",
+            "song" : "This Is Love"
+        },
+        {
+            "order" : 16,
+            "country" : "Spain",
+            "performer" : "Manel Navarro",
+            "song" : "Do It for Your Lover"
+        },
+        {
+            "order" : 17,
+            "country" : "Norway",
+            "performer" : "JOWST",
+            "song" : "Grab the Moment"
+        },
+        {
+            "order" : 18,
+            "country" : "United Kingdom",
+            "performer" : "Lucie Jones",
+            "song" : "Never Give Up on You"
+        },
+        {
+            "order" : 19,
+            "country" : "Cyprus",
+            "performer" : "Hovig",
+            "song" : "Gravity"
+        },
+        {
+            "order" : 20,
+            Romania
+            Ilinca ft. Alex Florea
+            "Yodel It!"
+        },
+        {
+            "order" : 21,
+            "country" : "Germany",
+            "performer" : "Levina",
+            "song" : "Perfect Life"
+        },
+        {
+            "order" : 22,
+            "country" : "Ukraine",
+            "performer" : "O.Torvald",
+            "song" : "Time"
+        },
+        {
+            "order" : 23,
+            "country" : "Belgium",
+            "performer" : "Blanche",
+            "song" : "City Lights"
+        },
+        {
+            "order" : 24,
+            "country" : "Sweden",
+            "performer" : "Robin Bengtsson",
+            "song" : "I Can't Go On"
+        },
+        {
+            "order" : 25,
+            "country" : "Bulgaria",
+            "performer" : "Kristian Kostov",
+            "song" : "Beautiful Mess"
+        },
+        {
+            "order" : 26,
+            "country" : "France",
+            "performer" : "Alma",
+            "song" : "Requiem"
+        }
+    ]
+}

@@ -1,0 +1,243 @@
+{
+    "year" : 2016,
+    "host" : {
+        "country" : "Sweden",
+        "city" : "Stockholm"
+    },
+    "entries" : [
+            {
+              "order": 1,
+              "country": "Belgium",
+              "performer": "Laura Tesoro",
+              "song": "What's the Pressure",
+              "language": "English",
+              "place": 10,
+              "points": 181
+            },
+            {
+              "order": 2,
+              "country": "Czech Republic",
+              "performer": "Gabriela Gunčíková",
+              "song": "I Stand",
+              "language": "English",
+              "place": 25,
+              "points": 41
+            },
+            {
+              "order": 3,
+              "country": "Netherlands",
+              "performer": "Douwe Bob",
+              "song": "Slow Down",
+              "language": "English",
+              "place": 11,
+              "points": 153
+            },
+            {
+              "order": 4,
+              "country": "Azerbaijan",
+              "performer": "Samra",
+              "song": "Miracle",
+              "language": "English",
+              "place": 17,
+              "points": 117
+            },
+            {
+              "order": 5,
+              "country": "Hungary",
+              "performer": "Freddie",
+              "song": "Pioneer",
+              "language": "English",
+              "place": 19,
+              "points": 108
+            },
+            {
+              "order": 6,
+              "country": "Italy",
+              "performer": "Francesca Michielin",
+              "song": "No Degree of Separation",
+              "language": "Italian, English",
+              "place": 16,
+              "points": 124
+            },
+            {
+              "order": 7,
+              "country": "Israel",
+              "performer": "Hovi Star",
+              "song": "Made of Stars",
+              "language": "English",
+              "place": 14,
+              "points": 135
+            },
+            {
+              "order": 8,
+              "country": "Bulgaria",
+              "performer": "Poli Genova",
+              "song": "If Love Was a Crime",
+              "language": "English, Bulgarian",
+              "place": 4,
+              "points": 307
+            },
+            {
+              "order": 9,
+              "country": "Sweden",
+              "performer": "Frans",
+              "song": "If I Were Sorry",
+              "language": "English",
+              "place": 5,
+              "points": 261
+            },
+            {
+              "order": 10,
+              "country": "Germany",
+              "performer": "Jamie-Lee",
+              "song": "Ghost",
+              "language": "English",
+              "place": 26,
+              "points": 11
+            },
+            {
+              "order": 11,
+              "country": "France",
+              "performer": "Amir",
+              "song": "J'ai cherché",
+              "language": "French, English",
+              "place": 6,
+              "points": 257
+            },
+            {
+              "order": 12,
+              "country": "Poland",
+              "performer": "Michał Szpak",
+              "song": "Color of Your Life",
+              "language": "English",
+              "place": 8,
+              "points": 229
+            },
+            {
+              "order": 13,
+              "country": "Australia",
+              "performer": "Dami Im",
+              "song": "Sound of Silence",
+              "language": "English",
+              "place": 2,
+              "points": 511
+            },
+            {
+              "order": 14,
+              "country": "Cyprus",
+              "performer": "Minus One",
+              "song": "Alter Ego",
+              "language": "English",
+              "place": 21,
+              "points": 96
+            },
+            {
+              "order": 15,
+              "country": "Serbia",
+              "performer": "Sanja Vučić ZAA",
+              "song": "Goodbye (Shelter)",
+              "language": "English",
+              "place": 18,
+              "points": 115
+            },
+            {
+              "order": 16,
+              "country": "Lithuania",
+              "performer": "Donny Montell",
+              "song": "I've Been Waiting for This Night",
+              "language": "English",
+              "place": 9,
+              "points": 200
+            },
+            {
+              "order": 17,
+              "country": "Croatia",
+              "performer": "Nina Kraljić",
+              "song": "Lighthouse",
+              "language": "English",
+              "place": 23,
+              "points": 73
+            },
+            {
+              "order": 18,
+              "country": "Russia",
+              "performer": "Sergey Lazarev",
+              "song": "You Are the Only One",
+              "language": "English",
+              "place": 3,
+              "points": 491
+            },
+            {
+              "order": 19,
+              "country": "Spain",
+              "performer": "Barei",
+              "song": "Say Yay!",
+              "language": "English",
+              "place": 22,
+              "points": 77
+            },
+            {
+              "order": 20,
+              "country": "Latvia",
+              "performer": "Justs",
+              "song": "Heartbeat",
+              "language": "English",
+              "place": 15,
+              "points": 132
+            },
+            {
+              "order": 21,
+              "country": "Ukraine",
+              "performer": "Jamala",
+              "song": 1944,
+              "language": "English, Crimean Tatar",
+              "place": 1,
+              "points": 534
+            },
+            {
+              "order": 22,
+              "country": "Malta",
+              "performer": "Ira Losco",
+              "song": "Walk on Water",
+              "language": "English",
+              "place": 12,
+              "points": 153
+            },
+            {
+              "order": 23,
+              "country": "Georgia",
+              "performer": "Nika Kocharov & Young Georgian Lolitaz",
+              "song": "Midnight Gold",
+              "language": "English",
+              "place": 20,
+              "points": 104
+            },
+            {
+              "order": 24,
+              "country": "Austria",
+              "performer": "Zoë",
+              "song": "Loin d'ici",
+              "language": "French",
+              "place": 13,
+              "points": 151
+            },
+            {
+              "order": 25,
+              "country": "United Kingdom",
+              "performer": "Joe and Jake",
+              "song": "You're Not Alone",
+              "language": "English",
+              "place": 24,
+              "points": 62
+            },
+            {
+              "order": 26,
+              "country": "Armenia",
+              "performer": "Iveta Mukuchyan",
+              "song": "LoveWave",
+              "language": "English",
+              "place": 7,
+              "points": 249
+            }
+          ]
+}

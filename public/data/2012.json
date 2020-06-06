@@ -1,0 +1,243 @@
+{
+    "year" : 2012,
+    "host" : {
+        "country" : "Azerbaijan",
+        "city" : "Baku"
+    },
+    "entries" : [
+        {
+          "order": 1,
+          "country": "United Kingdom",
+          "performer": "Engelbert Humperdinck",
+          "song": "Love Will Set You Free",
+          "language": "English",
+          "place": 25,
+          "points": 12
+        },
+        {
+          "order": 2,
+          "country": "Hungary",
+          "performer": "Compact Disco",
+          "song": "Sound of Our Hearts",
+          "language": "English",
+          "place": 24,
+          "points": 19
+        },
+        {
+          "order": 3,
+          "country": "Albania",
+          "performer": "Rona Nishliu",
+          "song": "Suus",
+          "language": "Albanian",
+          "place": 5,
+          "points": 146
+        },
+        {
+          "order": 4,
+          "country": "Lithuania",
+          "performer": "Donny Montell",
+          "song": "Love Is Blind",
+          "language": "English",
+          "place": 14,
+          "points": 70
+        },
+        {
+          "order": 5,
+          "country": "Bosnia and Herzegovina",
+          "performer": "Maya Sar",
+          "song": "Korake ti znam",
+          "language": "Bosnian",
+          "place": 18,
+          "points": 55
+        },
+        {
+          "order": 6,
+          "country": "Russia",
+          "performer": "Buranovskiye Babushki",
+          "song": "Party for Everybody",
+          "language": "Udmurt, English",
+          "place": 2,
+          "points": 259
+        },
+        {
+          "order": 7,
+          "country": "Iceland",
+          "performer": "Greta Salóme and Jónsi",
+          "song": "Never Forget",
+          "language": "English",
+          "place": 20,
+          "points": 46
+        },
+        {
+          "order": 8,
+          "country": "Cyprus",
+          "performer": "Ivi Adamou",
+          "song": "La La Love",
+          "language": "English",
+          "place": 16,
+          "points": 65
+        },
+        {
+          "order": 9,
+          "country": "France",
+          "performer": "Anggun",
+          "song": "Echo (You and I)",
+          "language": "French, English",
+          "place": 22,
+          "points": 21
+        },
+        {
+          "order": 10,
+          "country": "Italy",
+          "performer": "Nina Zilli",
+          "song": "L'amore è femmina (Out of Love)",
+          "language": "English, Italian",
+          "place": 9,
+          "points": 101
+        },
+        {
+          "order": 11,
+          "country": "Estonia",
+          "performer": "Ott Lepland",
+          "song": "Kuula",
+          "language": "Estonian",
+          "place": 6,
+          "points": 120
+        },
+        {
+          "order": 12,
+          "country": "Norway",
+          "performer": "Tooji",
+          "song": "Stay",
+          "language": "English",
+          "place": 26,
+          "points": 7
+        },
+        {
+          "order": 13,
+          "country": "Azerbaijan",
+          "performer": "Sabina Babayeva",
+          "song": "When the Music Dies",
+          "language": "English",
+          "place": 4,
+          "points": 150
+        },
+        {
+          "order": 14,
+          "country": "Romania",
+          "performer": "Mandinga",
+          "song": "Zaleilah",
+          "language": "Spanish, English",
+          "place": 12,
+          "points": 71
+        },
+        {
+          "order": 15,
+          "country": "Denmark",
+          "performer": "Soluna Samay",
+          "song": "Should've Known Better",
+          "language": "English",
+          "place": 23,
+          "points": 21
+        },
+        {
+          "order": 16,
+          "country": "Greece",
+          "performer": "Eleftheria Eleftheriou",
+          "song": "Aphrodisiac",
+          "language": "English",
+          "place": 17,
+          "points": 64
+        },
+        {
+          "order": 17,
+          "country": "Sweden",
+          "performer": "Loreen",
+          "song": "Euphoria",
+          "language": "English",
+          "place": 1,
+          "points": 372
+        },
+        {
+          "order": 18,
+          "country": "Turkey",
+          "performer": "Can Bonomo",
+          "song": "Love Me Back",
+          "language": "English",
+          "place": 7,
+          "points": 112
+        },
+        {
+          "order": 19,
+          "country": "Spain",
+          "performer": "Pastora Soler",
+          "song": "Quédate conmigo (Stay With Me)",
+          "language": "Spanish",
+          "place": 10,
+          "points": 97
+        },
+        {
+          "order": 20,
+          "country": "Germany",
+          "performer": "Roman Lob",
+          "song": "Standing Still",
+          "language": "English",
+          "place": 8,
+          "points": 110
+        },
+        {
+          "order": 21,
+          "country": "Malta",
+          "performer": "Kurt Calleja",
+          "song": "This Is the Night",
+          "language": "English",
+          "place": 21,
+          "points": 41
+        },
+        {
+          "order": 22,
+          "country": "Macedonia",
+          "performer": "Kaliopi",
+          "song": "Crno i belo",
+          "language": "Macedonian",
+          "place": 13,
+          "points": 71
+        },
+        {
+          "order": 23,
+          "country": "Ireland",
+          "performer": "Jedward",
+          "song": "Waterline",
+          "language": "English",
+          "place": 19,
+          "points": 46
+        },
+        {
+          "order": 24,
+          "country": "Serbia",
+          "performer": "Željko Joksimović",
+          "song": "Nije ljubav stvar",
+          "language": "Serbian",
+          "place": 3,
+          "points": 214
+        },
+        {
+          "order": 25,
+          "country": "Ukraine",
+          "performer": "Gaitana",
+          "song": "Be My Guest",
+          "language": "English",
+          "place": 15,
+          "points": 65
+        },
+        {
+          "order": 26,
+          "country": "Moldova",
+          "performer": "Pasha Parfeny",
+          "song": "Lăutar",
+          "language": "English",
+          "place": 11,
+          "points": 81
+        }
+      ]
+}

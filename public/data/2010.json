@@ -1,0 +1,234 @@
+{
+    "year" : 2010,
+    "host" : {
+        "country" : "Norway",
+        "city" : "Oslo"
+    },
+    "entries" : [
+        {
+          "order": 1,
+          "country": "Azerbaijan",
+          "performer": "Safura",
+          "song": "Drip Drop",
+          "language": "English",
+          "place": 5,
+          "points": 145
+        },
+        {
+          "order": 2,
+          "country": "Spain",
+          "performer": "Daniel Diges",
+          "song": "Algo pequeñito",
+          "language": "Spanish",
+          "place": 15,
+          "points": 68
+        },
+        {
+          "order": 3,
+          "country": "Norway",
+          "performer": "Didrik Solli-Tangen",
+          "song": "My Heart Is Yours",
+          "language": "English",
+          "place": 20,
+          "points": 35
+        },
+        {
+          "order": 4,
+          "country": "Moldova",
+          "performer": "SunStroke Project and Olia Tira",
+          "song": "Run Away",
+          "language": "English",
+          "place": 22,
+          "points": 27
+        },
+        {
+          "order": 5,
+          "country": "Cyprus",
+          "performer": "Jon Lilygreen and The Islanders",
+          "song": "Life Looks Better in Spring",
+          "language": "English",
+          "place": 21,
+          "points": 27
+        },
+        {
+          "order": 6,
+          "country": "Bosnia and Herzegovina",
+          "performer": "Vukašin Brajić",
+          "song": "Thunder and Lightning",
+          "language": "English",
+          "place": 17,
+          "points": 51
+        },
+        {
+          "order": 7,
+          "country": "Belgium",
+          "performer": "Tom Dice",
+          "song": "Me and My Guitar",
+          "language": "English",
+          "place": 6,
+          "points": 143
+        },
+        {
+          "order": 8,
+          "country": "Serbia",
+          "performer": "Milan Stanković",
+          "song": "Ovo je Balkan",
+          "language": "Serbian",
+          "place": 13,
+          "points": 72
+        },
+        {
+          "order": 9,
+          "country": "Belarus",
+          "performer": "3+2 feat Robert Wells",
+          "song": "Butterflies",
+          "language": "English",
+          "place": 24,
+          "points": 18
+        },
+        {
+          "order": 10,
+          "country": "Ireland",
+          "performer": "Niamh Kavanagh",
+          "song": "It's for You",
+          "language": "English",
+          "place": 23,
+          "points": 25
+        },
+        {
+          "order": 11,
+          "country": "Greece",
+          "performer": "Giorgos Alkaios and Friends",
+          "song": "OPA!",
+          "language": "Greek",
+          "place": 8,
+          "points": 140
+        },
+        {
+          "order": 12,
+          "country": "United Kingdom",
+          "performer": "Josh Dubovie",
+          "song": "That Sounds Good to Me",
+          "language": "English",
+          "place": 25,
+          "points": 10
+        },
+        {
+          "order": 13,
+          "country": "Georgia",
+          "performer": "Sofia Nizharadze",
+          "song": "Shine",
+          "language": "English",
+          "place": 9,
+          "points": 136
+        },
+        {
+          "order": 14,
+          "country": "Turkey",
+          "performer": "maNga",
+          "song": "We Could Be the Same",
+          "language": "English",
+          "place": 2,
+          "points": 170
+        },
+        {
+          "order": 15,
+          "country": "Albania",
+          "performer": "Juliana Pasha",
+          "song": "It's All About You",
+          "language": "English",
+          "place": 16,
+          "points": 62
+        },
+        {
+          "order": 16,
+          "country": "Iceland",
+          "performer": "Hera Björk",
+          "song": "Je ne sais quoi",
+          "language": "English",
+          "place": 19,
+          "points": 41
+        },
+        {
+          "order": 17,
+          "country": "Ukraine",
+          "performer": "Alyosha",
+          "song": "Sweet People",
+          "language": "English",
+          "place": 10,
+          "points": 108
+        },
+        {
+          "order": 18,
+          "country": "France",
+          "performer": "Jessy Matador",
+          "song": "Allez Ola Olé",
+          "language": "French",
+          "place": 12,
+          "points": 82
+        },
+        {
+          "order": 19,
+          "country": "Romania",
+          "performer": "Paula Seling and Ovi",
+          "song": "Playing with Fire",
+          "language": "English",
+          "place": 3,
+          "points": 162
+        },
+        {
+          "order": 20,
+          "country": "Russia",
+          "performer": "Peter Nalitch and Friends",
+          "song": "Lost and Forgotten",
+          "language": "English",
+          "place": 11,
+          "points": 90
+        },
+        {
+          "order": 21,
+          "country": "Armenia",
+          "performer": "Eva Rivas",
+          "song": "Apricot Stone",
+          "language": "English",
+          "place": 7,
+          "points": 141
+        },
+        {
+          "order": 22,
+          "country": "Germany",
+          "performer": "Lena",
+          "song": "Satellite",
+          "language": "English",
+          "place": 1,
+          "points": 246
+        },
+        {
+          "order": 23,
+          "country": "Portugal",
+          "performer": "Filipa Azevedo",
+          "song": "Há dias assim",
+          "language": "Portuguese",
+          "place": 18,
+          "points": 43
+        },
+        {
+          "order": 24,
+          "country": "Israel",
+          "performer": "Harel Skaat",
+          "song": "Milim",
+          "language": "Hebrew",
+          "place": 14,
+          "points": 71
+        },
+        {
+          "order": 25,
+          "country": "Denmark",
+          "performer": "Chanée and N'evergreen",
+          "song": "In a Moment Like This",
+          "language": "English",
+          "place": 4,
+          "points": 149
+        }
+      ]
+}

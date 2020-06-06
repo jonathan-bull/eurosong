@@ -1,0 +1,225 @@
+{
+    "year" : 2002,
+    "host" : {
+        "country" : "Estonia",
+        "city" : "Tallinn"
+    },
+    "entries" : [
+        {
+          "order": 1,
+          "country": "Cyprus",
+          "performer": "One",
+          "song": "Gimme",
+          "language": "English",
+          "place": 6,
+          "points": 85
+        },
+        {
+          "order": 2,
+          "country": "United Kingdom",
+          "performer": "Jessica Garlick",
+          "song": "Come Back",
+          "language": "English",
+          "place": 3,
+          "points": 111
+        },
+        {
+          "order": 3,
+          "country": "Austria",
+          "performer": "Manuel Ortega",
+          "song": "Say a Word",
+          "language": "English",
+          "place": 18,
+          "points": 26
+        },
+        {
+          "order": 4,
+          "country": "Greece",
+          "performer": "Michalis Rakintzis",
+          "song": "S.A.G.A.P.O.",
+          "language": "English",
+          "place": 17,
+          "points": 27
+        },
+        {
+          "order": 5,
+          "country": "Spain",
+          "performer": "Rosa",
+          "song": "Europe's Living a Celebration",
+          "language": "Spanish, English",
+          "place": 7,
+          "points": 81
+        },
+        {
+          "order": 6,
+          "country": "Croatia",
+          "performer": "Vesna Pisarović",
+          "song": "Everything I Want",
+          "language": "English",
+          "place": 11,
+          "points": 44
+        },
+        {
+          "order": 7,
+          "country": "Russia",
+          "performer": "Prime Minister",
+          "song": "Northern Girl",
+          "language": "English",
+          "place": 10,
+          "points": 55
+        },
+        {
+          "order": 8,
+          "country": "Estonia",
+          "performer": "Sahlene",
+          "song": "Runaway",
+          "language": "English",
+          "place": 3,
+          "points": 111
+        },
+        {
+          "order": 9,
+          "country": "Macedonia",
+          "performer": "Karolina",
+          "song": "Od nas zavisi",
+          "language": "Macedonian",
+          "place": 19,
+          "points": 25
+        },
+        {
+          "order": 10,
+          "country": "Israel",
+          "performer": "Sarit Hadad",
+          "song": "Light a Candle",
+          "language": "Hebrew, English",
+          "place": 12,
+          "points": 37
+        },
+        {
+          "order": 11,
+          "country": "Switzerland",
+          "performer": "Francine Jordi",
+          "song": "Dans le jardin de mon âme",
+          "language": "French",
+          "place": 22,
+          "points": 15
+        },
+        {
+          "order": 12,
+          "country": "Sweden",
+          "performer": "Afro-dite",
+          "song": "Never Let It Go",
+          "language": "English",
+          "place": 8,
+          "points": 72
+        },
+        {
+          "order": 13,
+          "country": "Finland",
+          "performer": "Laura",
+          "song": "Addicted to You",
+          "language": "English",
+          "place": 20,
+          "points": 24
+        },
+        {
+          "order": 14,
+          "country": "Denmark",
+          "performer": "Malene Mortensen",
+          "song": "Tell Me Who You Are",
+          "language": "English",
+          "place": 24,
+          "points": 7
+        },
+        {
+          "order": 15,
+          "country": "Bosnia and Herzegovina",
+          "performer": "Maja",
+          "song": "Na jastuku za dvoje",
+          "language": "Serbian, English",
+          "place": 13,
+          "points": 33
+        },
+        {
+          "order": 16,
+          "country": "Belgium",
+          "performer": "Sergio & The Ladies",
+          "song": "Sister",
+          "language": "English",
+          "place": 13,
+          "points": 33
+        },
+        {
+          "order": 17,
+          "country": "France",
+          "performer": "Sandrine François",
+          "song": "Il faut du temps",
+          "language": "French",
+          "place": 5,
+          "points": 104
+        },
+        {
+          "order": 18,
+          "country": "Germany",
+          "performer": "Corinna May",
+          "song": "I Can't Live Without Music",
+          "language": "English",
+          "place": 21,
+          "points": 17
+        },
+        {
+          "order": 19,
+          "country": "Turkey",
+          "performer": "Buket Bengisu & Group Safir",
+          "song": "Leylaklar Soldu Kalbinde",
+          "language": "Turkish, English",
+          "place": 16,
+          "points": 29
+        },
+        {
+          "order": 20,
+          "country": "Malta",
+          "performer": "Ira Losco",
+          "song": "7th Wonder",
+          "language": "English",
+          "place": 2,
+          "points": 164
+        },
+        {
+          "order": 21,
+          "country": "Romania",
+          "performer": "Monica Anghel & Marcel Pavel",
+          "song": "Tell Me Why",
+          "language": "English",
+          "place": 9,
+          "points": 71
+        },
+        {
+          "order": 22,
+          "country": "Slovenia",
+          "performer": "Sestre",
+          "song": "Samo ljubezen",
+          "language": "Slovene",
+          "place": 13,
+          "points": 33
+        },
+        {
+          "order": 23,
+          "country": "Latvia",
+          "performer": "Marie N",
+          "song": "I Wanna",
+          "language": "English",
+          "place": 1,
+          "points": 176
+        },
+        {
+          "order": 24,
+          "country": "Lithuania",
+          "performer": "Aivaras",
+          "song": "Happy You",
+          "language": "English",
+          "place": 23,
+          "points": 12
+        }
+      ]
+}

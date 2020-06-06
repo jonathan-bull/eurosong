@@ -1,0 +1,225 @@
+{
+    "year" : 2005,
+    "host" : {
+        "country" : "Ukraine",
+        "city" : "Kiev"
+    },
+    "entries" : [
+        {
+          "order": 1,
+          "country": "Hungary",
+          "performer": "NOX",
+          "song": "Forogj, világ!",
+          "language": "Hungarian",
+          "place": 12,
+          "points": 97
+        },
+        {
+          "order": 2,
+          "country": "United Kingdom",
+          "performer": "Javine",
+          "song": "Touch My Fire",
+          "language": "English",
+          "place": 22,
+          "points": 18
+        },
+        {
+          "order": 3,
+          "country": "Malta",
+          "performer": "Chiara",
+          "song": "Angel",
+          "language": "English",
+          "place": 2,
+          "points": 192
+        },
+        {
+          "order": 4,
+          "country": "Romania",
+          "performer": "Luminița Anghel & Sistem",
+          "song": "Let Me Try",
+          "language": "English",
+          "place": 3,
+          "points": 158
+        },
+        {
+          "order": 5,
+          "country": "Norway",
+          "performer": "Wig Wam",
+          "song": "In My Dreams",
+          "language": "English",
+          "place": 9,
+          "points": 125
+        },
+        {
+          "order": 6,
+          "country": "Turkey",
+          "performer": "Gülseren",
+          "song": "Rimi Rimi Ley",
+          "language": "Turkish",
+          "place": 13,
+          "points": 92
+        },
+        {
+          "order": 7,
+          "country": "Moldova",
+          "performer": "Zdob și Zdub",
+          "song": "Boonika bate doba",
+          "language": "English, Romanian",
+          "place": 6,
+          "points": 148
+        },
+        {
+          "order": 8,
+          "country": "Albania",
+          "performer": "Ledina Çelo",
+          "song": "Tomorrow I Go",
+          "language": "English",
+          "place": 16,
+          "points": 53
+        },
+        {
+          "order": 9,
+          "country": "Cyprus",
+          "performer": "Constantinos Christoforou",
+          "song": "Ela Ela",
+          "language": "English",
+          "place": 18,
+          "points": 46
+        },
+        {
+          "order": 10,
+          "country": "Spain",
+          "performer": "Son de Sol",
+          "song": "Brujería",
+          "language": "Spanish",
+          "place": 21,
+          "points": 28
+        },
+        {
+          "order": 11,
+          "country": "Israel",
+          "performer": "Shiri Maimon",
+          "song": "Hasheket Shenish'ar",
+          "language": "Hebrew, English",
+          "place": 4,
+          "points": 154
+        },
+        {
+          "order": 12,
+          "country": "Serbia and Montenegro2",
+          "performer": "No Name",
+          "song": "Zauvijek moja",
+          "language": "Montenegrin",
+          "place": 7,
+          "points": 137
+        },
+        {
+          "order": 13,
+          "country": "Denmark",
+          "performer": "Jakob Sveistrup",
+          "song": "Talking to You",
+          "language": "English",
+          "place": 9,
+          "points": 125
+        },
+        {
+          "order": 14,
+          "country": "Sweden",
+          "performer": "Martin Stenmarck",
+          "song": "Las Vegas",
+          "language": "English",
+          "place": 19,
+          "points": 30
+        },
+        {
+          "order": 15,
+          "country": "Macedonia",
+          "performer": "Martin Vučić",
+          "song": "Make My Day",
+          "language": "English",
+          "place": 17,
+          "points": 52
+        },
+        {
+          "order": 16,
+          "country": "Ukraine",
+          "performer": "GreenJolly",
+          "song": "Razom nas bahato",
+          "language": "Ukrainian, English",
+          "place": 19,
+          "points": 30
+        },
+        {
+          "order": 17,
+          "country": "Germany",
+          "performer": "Gracia",
+          "song": "Run and Hide",
+          "language": "English",
+          "place": 24,
+          "points": 4
+        },
+        {
+          "order": 18,
+          "country": "Croatia2",
+          "performer": "Boris Novković feat. Lado Members",
+          "song": "Vukovi umiru sami",
+          "language": "Croatian",
+          "place": 11,
+          "points": 115
+        },
+        {
+          "order": 19,
+          "country": "Greece",
+          "performer": "Helena Paparizou",
+          "song": "My Number One",
+          "language": "English",
+          "place": 1,
+          "points": 230
+        },
+        {
+          "order": 20,
+          "country": "Russia",
+          "performer": "Natalia Podolskaya",
+          "song": "Nobody Hurt No One",
+          "language": "English",
+          "place": 15,
+          "points": 57
+        },
+        {
+          "order": 21,
+          "country": "Bosnia and Herzegovina",
+          "performer": "Feminnem",
+          "song": "Call Me",
+          "language": "English",
+          "place": 14,
+          "points": 79
+        },
+        {
+          "order": 22,
+          "country": "Switzerland",
+          "performer": "Vanilla Ninja",
+          "song": "Cool Vibes",
+          "language": "English",
+          "place": 8,
+          "points": 128
+        },
+        {
+          "order": 23,
+          "country": "Latvia",
+          "performer": "Walters & Kazha",
+          "song": "The War Is Not Over",
+          "language": "English",
+          "place": 5,
+          "points": 153
+        },
+        {
+          "order": 24,
+          "country": "France",
+          "performer": "Ortal",
+          "song": "Chacun pense à soi",
+          "language": "French",
+          "place": 23,
+          "points": 11
+        }
+      ]
+}
