@@ -1,0 +1,243 @@
+{
+    "year" : 2013,
+    "host" : {
+        "country" : "Sweden",
+        "city" : "Malmö"
+    },
+    "entries" : [
+            {
+              "order": 1,
+              "country": "France",
+              "performer": "Amandine Bourgeois",
+              "song": "L'enfer et moi",
+              "language": "French",
+              "place": 23,
+              "points": 14
+            },
+            {
+              "order": 2,
+              "country": "Lithuania",
+              "performer": "Andrius Pojavis",
+              "song": "Something",
+              "language": "English",
+              "place": 22,
+              "points": 17
+            },
+            {
+              "order": 3,
+              "country": "Moldova",
+              "performer": "Aliona Moon",
+              "song": "O mie",
+              "language": "Romanian",
+              "place": 11,
+              "points": 71
+            },
+            {
+              "order": 4,
+              "country": "Finland",
+              "performer": "Krista Siegfrids",
+              "song": "Marry Me",
+              "language": "English",
+              "place": 24,
+              "points": 13
+            },
+            {
+              "order": 5,
+              "country": "Spain",
+              "performer": "ESDM",
+              "song": "Contigo hasta el final",
+              "language": "Spanish",
+              "place": 25,
+              "points": 8
+            },
+            {
+              "order": 6,
+              "country": "Belgium",
+              "performer": "Roberto Bellarosa",
+              "song": "Love Kills",
+              "language": "English",
+              "place": 12,
+              "points": 71
+            },
+            {
+              "order": 7,
+              "country": "Estonia",
+              "performer": "Birgit",
+              "song": "Et uus saaks alguse",
+              "language": "Estonian",
+              "place": 20,
+              "points": 19
+            },
+            {
+              "order": 8,
+              "country": "Belarus",
+              "performer": "Alyona Lanskaya",
+              "song": "Solayoh",
+              "language": "English",
+              "place": 16,
+              "points": 48
+            },
+            {
+              "order": 9,
+              "country": "Malta",
+              "performer": "Gianluca",
+              "song": "Tomorrow",
+              "language": "English",
+              "place": 8,
+              "points": 120
+            },
+            {
+              "order": 10,
+              "country": "Russia",
+              "performer": "Dina Garipova",
+              "song": "What If",
+              "language": "English",
+              "place": 5,
+              "points": 174
+            },
+            {
+              "order": 11,
+              "country": "Germany",
+              "performer": "Cascada",
+              "song": "Glorious",
+              "language": "English",
+              "place": 21,
+              "points": 18
+            },
+            {
+              "order": 12,
+              "country": "Armenia",
+              "performer": "Dorians",
+              "song": "Lonely Planet",
+              "language": "English",
+              "place": 18,
+              "points": 41
+            },
+            {
+              "order": 13,
+              "country": "Netherlands",
+              "performer": "Anouk",
+              "song": "Birds",
+              "language": "English",
+              "place": 9,
+              "points": 114
+            },
+            {
+              "order": 14,
+              "country": "Romania",
+              "performer": "Cezar",
+              "song": "It's My Life",
+              "language": "English",
+              "place": 13,
+              "points": 65
+            },
+            {
+              "order": 15,
+              "country": "United Kingdom",
+              "performer": "Bonnie Tyler",
+              "song": "Believe in Me",
+              "language": "English",
+              "place": 19,
+              "points": 23
+            },
+            {
+              "order": 16,
+              "country": "Sweden",
+              "performer": "Robin Stjernberg",
+              "song": "You",
+              "language": "English",
+              "place": 14,
+              "points": 62
+            },
+            {
+              "order": 17,
+              "country": "Hungary",
+              "performer": "ByeAlex",
+              "song": "Kedvesem (Zoohacker Remix)",
+              "language": "Hungarian",
+              "place": 10,
+              "points": 84
+            },
+            {
+              "order": 18,
+              "country": "Denmark",
+              "performer": "Emmelie de Forest",
+              "song": "Only Teardrops",
+              "language": "English",
+              "place": 1,
+              "points": 281
+            },
+            {
+              "order": 19,
+              "country": "Iceland",
+              "performer": "Eythor Ingi",
+              "song": "Ég á líf",
+              "language": "Icelandic",
+              "place": 17,
+              "points": 47
+            },
+            {
+              "order": 20,
+              "country": "Azerbaijan",
+              "performer": "Farid Mammadov",
+              "song": "Hold Me",
+              "language": "English",
+              "place": 2,
+              "points": 234
+            },
+            {
+              "order": 21,
+              "country": "Greece",
+              "performer": "Koza Mostra feat. Agathon Iakovidis",
+              "song": "Alcohol Is Free",
+              "language": "Greek",
+              "place": 6,
+              "points": 152
+            },
+            {
+              "order": 22,
+              "country": "Ukraine",
+              "performer": "Zlata Ognevich",
+              "song": "Gravity",
+              "language": "English",
+              "place": 3,
+              "points": 214
+            },
+            {
+              "order": 23,
+              "country": "Italy",
+              "performer": "Marco Mengoni",
+              "song": "L'essenziale",
+              "language": "Italian",
+              "place": 7,
+              "points": 126
+            },
+            {
+              "order": 24,
+              "country": "Norway",
+              "performer": "Margaret Berger",
+              "song": "I Feed You My Love",
+              "language": "English",
+              "place": 4,
+              "points": 191
+            },
+            {
+              "order": 25,
+              "country": "Georgia",
+              "performer": "Nodi Tatishvili and Sophie Gelovani",
+              "song": "Waterfall",
+              "language": "English",
+              "place": 15,
+              "points": 50
+            },
+            {
+              "order": 26,
+              "country": "Ireland",
+              "performer": "Ryan Dolan",
+              "song": "Only Love Survives",
+              "language": "English",
+              "place": 26,
+              "points": 5
+            }
+    ]
+}

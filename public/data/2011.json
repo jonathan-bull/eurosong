@@ -1,0 +1,234 @@
+{
+    "year" : 2011,
+    "host" : {
+        "country" : "Germany",
+        "city" : "Düsseldorf"
+    },
+    "entries" : [
+        {
+          "order": 1,
+          "country": "Finland",
+          "performer": "Paradise Oskar",
+          "song": "Da Da Dam",
+          "language": "English",
+          "place": 21,
+          "points": 57
+        },
+        {
+          "order": 2,
+          "country": "Bosnia and Herzegovina",
+          "performer": "Dino Merlin",
+          "song": "Love in Rewind",
+          "language": "English",
+          "place": 6,
+          "points": 125
+        },
+        {
+          "order": 3,
+          "country": "Denmark",
+          "performer": "A Friend in London",
+          "song": "New Tomorrow",
+          "language": "English",
+          "place": 5,
+          "points": 134
+        },
+        {
+          "order": 4,
+          "country": "Lithuania",
+          "performer": "Evelina Sašenko",
+          "song": "C'est ma vie",
+          "language": "English",
+          "place": 19,
+          "points": 63
+        },
+        {
+          "order": 5,
+          "country": "Hungary",
+          "performer": "Kati Wolf",
+          "song": "What About My Dreams?",
+          "language": "English, Hungarian",
+          "place": 22,
+          "points": 53
+        },
+        {
+          "order": 6,
+          "country": "Ireland",
+          "performer": "Jedward",
+          "song": "Lipstick",
+          "language": "English",
+          "place": 8,
+          "points": 119
+        },
+        {
+          "order": 7,
+          "country": "Sweden",
+          "performer": "Eric Saade",
+          "song": "Popular",
+          "language": "English",
+          "place": 3,
+          "points": 185
+        },
+        {
+          "order": 8,
+          "country": "Estonia",
+          "performer": "Getter Jaani",
+          "song": "Rockefeller Street",
+          "language": "English",
+          "place": 24,
+          "points": 44
+        },
+        {
+          "order": 9,
+          "country": "Greece",
+          "performer": "Loukas Giorkas feat. Stereo Mike",
+          "song": "Watch My Dance",
+          "language": "English, Greek",
+          "place": 7,
+          "points": 120
+        },
+        {
+          "order": 10,
+          "country": "Russia",
+          "performer": "Alexey Vorobyov",
+          "song": "Get You",
+          "language": "English, Russian",
+          "place": 16,
+          "points": 77
+        },
+        {
+          "order": 11,
+          "country": "France",
+          "performer": "Amaury Vassili",
+          "song": "Sognu",
+          "language": "Corsican",
+          "place": 15,
+          "points": 82
+        },
+        {
+          "order": 12,
+          "country": "Italy",
+          "performer": "Raphael Gualazzi",
+          "song": "Madness of Love",
+          "language": "Italian, English",
+          "place": 2,
+          "points": 189
+        },
+        {
+          "order": 13,
+          "country": "Switzerland",
+          "performer": "Anna Rossinelli",
+          "song": "In Love for a While",
+          "language": "English",
+          "place": 25,
+          "points": 19
+        },
+        {
+          "order": 14,
+          "country": "United Kingdom",
+          "performer": "Blue",
+          "song": "I Can",
+          "language": "English",
+          "place": 11,
+          "points": 100
+        },
+        {
+          "order": 15,
+          "country": "Moldova",
+          "performer": "Zdob și Zdub",
+          "song": "So Lucky",
+          "language": "English",
+          "place": 12,
+          "points": 97
+        },
+        {
+          "order": 16,
+          "country": "Germany",
+          "performer": "Lena",
+          "song": "Taken by a Stranger",
+          "language": "English",
+          "place": 10,
+          "points": 107
+        },
+        {
+          "order": 17,
+          "country": "Romania",
+          "performer": "Hotel FM",
+          "song": "Change",
+          "language": "English",
+          "place": 17,
+          "points": 77
+        },
+        {
+          "order": 18,
+          "country": "Austria",
+          "performer": "Nadine Beiler",
+          "song": "The Secret Is Love",
+          "language": "English",
+          "place": 18,
+          "points": 64
+        },
+        {
+          "order": 19,
+          "country": "Azerbaijan",
+          "performer": "Ell & Nikki",
+          "song": "Running Scared",
+          "language": "English",
+          "place": 1,
+          "points": 221
+        },
+        {
+          "order": 20,
+          "country": "Slovenia",
+          "performer": "Maja Keuc",
+          "song": "No One",
+          "language": "English",
+          "place": 13,
+          "points": 96
+        },
+        {
+          "order": 21,
+          "country": "Iceland",
+          "performer": "Sjonni's Friends",
+          "song": "Coming Home",
+          "language": "English",
+          "place": 20,
+          "points": 61
+        },
+        {
+          "order": 22,
+          "country": "Spain",
+          "performer": "Lucía Pérez",
+          "song": "Que me quiten lo bailao",
+          "language": "Spanish",
+          "place": 23,
+          "points": 50
+        },
+        {
+          "order": 23,
+          "country": "Ukraine",
+          "performer": "Mika Newton",
+          "song": "Angel",
+          "language": "English",
+          "place": 4,
+          "points": 159
+        },
+        {
+          "order": 24,
+          "country": "Serbia",
+          "performer": "Nina",
+          "song": "Čaroban",
+          "language": "Serbian",
+          "place": 14,
+          "points": 85
+        },
+        {
+          "order": 25,
+          "country": "Georgia",
+          "performer": "Eldrine",
+          "song": "One More Day",
+          "language": "English",
+          "place": 9,
+          "points": 110
+        }
+      ]
+}

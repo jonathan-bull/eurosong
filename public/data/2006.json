@@ -1,0 +1,216 @@
+{
+    "year" : 2006,
+    "host" : {
+        "country" : "Greece",
+        "city" : "Athens"
+    },
+    "entries" : [
+        {
+          "order": 1,
+          "country": "Armenia",
+          "performer": "André",
+          "song": "Without Your Love",
+          "language": "English",
+          "place": 6,
+          "points": 150
+        },
+        {
+          "order": 2,
+          "country": "Bulgaria",
+          "performer": "Mariana Popova",
+          "song": "Let Me Cry",
+          "language": "English",
+          "place": 17,
+          "points": 36
+        },
+        {
+          "order": 3,
+          "country": "Slovenia",
+          "performer": "Anžej Dežan",
+          "song": "Mr Nobody",
+          "language": "English",
+          "place": 16,
+          "points": 49
+        },
+        {
+          "order": 4,
+          "country": "Andorra",
+          "performer": "Jenny",
+          "song": "Sense tu",
+          "language": "Catalan",
+          "place": 23,
+          "points": 8
+        },
+        {
+          "order": 5,
+          "country": "Belarus",
+          "performer": "Polina Smolova",
+          "song": "Mum",
+          "language": "English",
+          "place": 22,
+          "points": 10
+        },
+        {
+          "order": 6,
+          "country": "Albania",
+          "performer": "Luiz Ejlli",
+          "song": "Zjarr e ftohtë",
+          "language": "Albanian",
+          "place": 14,
+          "points": 58
+        },
+        {
+          "order": 7,
+          "country": "Belgium",
+          "performer": "Kate Ryan",
+          "song": "Je t'adore",
+          "language": "English",
+          "place": 12,
+          "points": 69
+        },
+        {
+          "order": 8,
+          "country": "Ireland",
+          "performer": "Brian Kennedy",
+          "song": "Every Song Is a Cry for Love",
+          "language": "English",
+          "place": 9,
+          "points": 79
+        },
+        {
+          "order": 9,
+          "country": "Cyprus",
+          "performer": "Annet Artani",
+          "song": "Why Angels Cry",
+          "language": "English",
+          "place": 15,
+          "points": 57
+        },
+        {
+          "order": 10,
+          "country": "Monaco",
+          "performer": "Séverine Ferrer",
+          "song": "La Coco-Dance",
+          "language": "French, Tahitian",
+          "place": 21,
+          "points": 14
+        },
+        {
+          "order": 11,
+          "country": "Macedonia",
+          "performer": "Elena Risteska",
+          "song": "Ninanajna",
+          "language": "English, Macedonian",
+          "place": 10,
+          "points": 76
+        },
+        {
+          "order": 12,
+          "country": "Poland",
+          "performer": "Ich Troje feat. Real McCoy",
+          "song": "Follow My Heart",
+          "language": "English, Polish, German, Russian",
+          "place": 11,
+          "points": 70
+        },
+        {
+          "order": 13,
+          "country": "Russia",
+          "performer": "Dima Bilan",
+          "song": "Never Let You Go",
+          "language": "English",
+          "place": 3,
+          "points": 217
+        },
+        {
+          "order": 14,
+          "country": "Turkey",
+          "performer": "Sibel Tüzün",
+          "song": "Süper Star",
+          "language": "Turkish3",
+          "place": 8,
+          "points": 91
+        },
+        {
+          "order": 15,
+          "country": "Ukraine",
+          "performer": "Tina Karol",
+          "song": "Show Me Your Love",
+          "language": "English",
+          "place": 7,
+          "points": 146
+        },
+        {
+          "order": 16,
+          "country": "Finland",
+          "performer": "Lordi",
+          "song": "Hard Rock Hallelujah",
+          "language": "English",
+          "place": 1,
+          "points": 292
+        },
+        {
+          "order": 17,
+          "country": "Netherlands",
+          "performer": "Treble",
+          "song": "Amambanda",
+          "language": "English, Imaginary",
+          "place": 20,
+          "points": 22
+        },
+        {
+          "order": 18,
+          "country": "Lithuania",
+          "performer": "LT United",
+          "song": "We Are the Winners",
+          "language": "English",
+          "place": 5,
+          "points": 163
+        },
+        {
+          "order": 19,
+          "country": "Portugal",
+          "performer": "Nonstop",
+          "song": "Coisas de nada",
+          "language": "Portuguese, English",
+          "place": 19,
+          "points": 26
+        },
+        {
+          "order": 20,
+          "country": "Sweden",
+          "performer": "Carola",
+          "song": "Invincible",
+          "language": "English",
+          "place": 4,
+          "points": 214
+        },
+        {
+          "order": 21,
+          "country": "Estonia",
+          "performer": "Sandra Oxenryd",
+          "song": "Through My Window",
+          "language": "English",
+          "place": 18,
+          "points": 28
+        },
+        {
+          "order": 22,
+          "country": "Bosnia and Herzegovina",
+          "performer": "Hari Mata Hari",
+          "song": "Lejla",
+          "language": "Bosnian",
+          "place": 2,
+          "points": 267
+        },
+        {
+          "order": 23,
+          "country": "Iceland",
+          "performer": "Silvia Night",
+          "song": "Congratulations",
+          "language": "English",
+          "place": 13,
+          "points": 62
+        }
+      ]
+}

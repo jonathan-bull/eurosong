@@ -1,0 +1,243 @@
+{
+    "year" : 2003,
+    "host" : {
+        "country" : "Latvia",
+        "city" : "Riga"
+    },
+    "entries" : [
+        {
+          "order": 1,
+          "country": "Iceland",
+          "performer": "Birgitta",
+          "song": "Open Your Heart",
+          "language": "English",
+          "place": 8,
+          "points": 81
+        },
+        {
+          "order": 2,
+          "country": "Austria",
+          "performer": "Alf Poier",
+          "song": "Weil der Mensch zählt",
+          "language": "German",
+          "place": 6,
+          "points": 101
+        },
+        {
+          "order": 3,
+          "country": "Ireland",
+          "performer": "Mickey Harte",
+          "song": "We've Got the World",
+          "language": "English",
+          "place": 11,
+          "points": 53
+        },
+        {
+          "order": 4,
+          "country": "Turkey",
+          "performer": "Sertab Erener",
+          "song": "Everyway That I Can",
+          "language": "English",
+          "place": 1,
+          "points": 167
+        },
+        {
+          "order": 5,
+          "country": "Malta",
+          "performer": "Lynn Chircop",
+          "song": "To Dream Again",
+          "language": "English",
+          "place": 25,
+          "points": 4
+        },
+        {
+          "order": 6,
+          "country": "Bosnia and Herzegovina",
+          "performer": "Mija Martina",
+          "song": "Ne brini",
+          "language": "Croatian, English",
+          "place": 16,
+          "points": 27
+        },
+        {
+          "order": 7,
+          "country": "Portugal",
+          "performer": "Rita Guerra",
+          "song": "Deixa-me sonhar",
+          "language": "Portuguese, English",
+          "place": 22,
+          "points": 13
+        },
+        {
+          "order": 8,
+          "country": "Croatia",
+          "performer": "Claudia Beni",
+          "song": "Više nisam tvoja",
+          "language": "Croatian, English",
+          "place": 15,
+          "points": 29
+        },
+        {
+          "order": 9,
+          "country": "Cyprus",
+          "performer": "Stelios Constantas",
+          "song": "Feeling Alive",
+          "language": "English",
+          "place": 20,
+          "points": 15
+        },
+        {
+          "order": 10,
+          "country": "Germany",
+          "performer": "Lou",
+          "song": "Let's Get Happy",
+          "language": "English",
+          "place": 11,
+          "points": 53
+        },
+        {
+          "order": 11,
+          "country": "Russia",
+          "performer": "t.A.T.u.",
+          "song": "Ne ver', ne boysia",
+          "language": "Russian",
+          "place": 3,
+          "points": 164
+        },
+        {
+          "order": 12,
+          "country": "Spain",
+          "performer": "Beth",
+          "song": "Dime",
+          "language": "Spanish",
+          "place": 8,
+          "points": 81
+        },
+        {
+          "order": 13,
+          "country": "Israel",
+          "performer": "Lior Narkis",
+          "song": "Words for Love",
+          "language": "Hebrew",
+          "place": 19,
+          "points": 17
+        },
+        {
+          "order": 14,
+          "country": "Netherlands",
+          "performer": "Esther Hart",
+          "song": "One More Night",
+          "language": "English",
+          "place": 13,
+          "points": 45
+        },
+        {
+          "order": 15,
+          "country": "United Kingdom",
+          "performer": "Jemini",
+          "song": "Cry Baby",
+          "language": "English",
+          "place": 26,
+          "points": 0
+        },
+        {
+          "order": 16,
+          "country": "Ukraine",
+          "performer": "Olexandr",
+          "song": "Hasta la Vista",
+          "language": "English",
+          "place": 14,
+          "points": 30
+        },
+        {
+          "order": 17,
+          "country": "Greece",
+          "performer": "Mando",
+          "song": "Never Let You Go",
+          "language": "English",
+          "place": 17,
+          "points": 25
+        },
+        {
+          "order": 18,
+          "country": "Norway",
+          "performer": "Jostein Hasselgård",
+          "song": "I'm Not Afraid to Move On",
+          "language": "English",
+          "place": 4,
+          "points": 123
+        },
+        {
+          "order": 19,
+          "country": "France",
+          "performer": "Louisa Baïleche",
+          "song": "Monts et merveilles",
+          "language": "French",
+          "place": 18,
+          "points": 19
+        },
+        {
+          "order": 20,
+          "country": "Poland",
+          "performer": "Ich Troje",
+          "song": "Keine Grenzen – Żadnych granic",
+          "language": "German, Polish, Russian",
+          "place": 7,
+          "points": 90
+        },
+        {
+          "order": 21,
+          "country": "Latvia",
+          "performer": "F.L.Y.",
+          "song": "Hello from Mars",
+          "language": "English",
+          "place": 24,
+          "points": 5
+        },
+        {
+          "order": 22,
+          "country": "Belgium",
+          "performer": "Urban Trad",
+          "song": "Sanomi",
+          "language": "Imaginary",
+          "place": 2,
+          "points": 165
+        },
+        {
+          "order": 23,
+          "country": "Estonia",
+          "performer": "Ruffus",
+          "song": "Eighties Coming Back",
+          "language": "English",
+          "place": 21,
+          "points": 14
+        },
+        {
+          "order": 24,
+          "country": "Romania",
+          "performer": "Nicola",
+          "song": "Don't Break My Heart",
+          "language": "English",
+          "place": 10,
+          "points": 73
+        },
+        {
+          "order": 25,
+          "country": "Sweden",
+          "performer": "Fame",
+          "song": "Give Me Your Love",
+          "language": "English",
+          "place": 5,
+          "points": 107
+        },
+        {
+          "order": 26,
+          "country": "Slovenia",
+          "performer": "Karmen",
+          "song": "Nanana",
+          "language": "English",
+          "place": 23,
+          "points": 7
+        }
+      ]
+}

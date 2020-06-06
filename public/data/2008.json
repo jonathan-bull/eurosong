@@ -1,0 +1,234 @@
+{
+    "year" : 2008,
+    "host" : {
+        "country" : "Serbia",
+        "city" : "Belgrade"
+    },
+    "entries" : [
+        {
+          "order": 1,
+          "country": "Romania",
+          "performer": "Nico and Vlad",
+          "song": "Pe-o margine de lume",
+          "language": "Romanian, Italian",
+          "place": 20,
+          "points": 45
+        },
+        {
+          "order": 2,
+          "country": "United Kingdom",
+          "performer": "Andy Abraham",
+          "song": "Even If",
+          "language": "English",
+          "place": 25,
+          "points": 14
+        },
+        {
+          "order": 3,
+          "country": "Albania",
+          "performer": "Olta Boka",
+          "song": "Zemrën e lamë peng",
+          "language": "Albanian",
+          "place": 17,
+          "points": 55
+        },
+        {
+          "order": 4,
+          "country": "Germany",
+          "performer": "No Angels",
+          "song": "Disappear",
+          "language": "English",
+          "place": 23,
+          "points": 14
+        },
+        {
+          "order": 5,
+          "country": "Armenia",
+          "performer": "Sirusho",
+          "song": "Qélé, Qélé",
+          "language": "English, Armenian",
+          "place": 4,
+          "points": 199
+        },
+        {
+          "order": 6,
+          "country": "Bosnia and Herzegovina",
+          "performer": "Laka",
+          "song": "Pokušaj",
+          "language": "Bosnian",
+          "place": 10,
+          "points": 110
+        },
+        {
+          "order": 7,
+          "country": "Israel",
+          "performer": "Boaz Ma'uda",
+          "song": "The Fire in Your Eyes",
+          "language": "Hebrew, English",
+          "place": 9,
+          "points": 124
+        },
+        {
+          "order": 8,
+          "country": "Finland",
+          "performer": "Teräsbetoni",
+          "song": "Missä miehet ratsastaa",
+          "language": "Finnish",
+          "place": 22,
+          "points": 35
+        },
+        {
+          "order": 9,
+          "country": "Croatia",
+          "performer": "Kraljevi ulice and 75 Cents",
+          "song": "Romanca",
+          "language": "Croatian",
+          "place": 21,
+          "points": 44
+        },
+        {
+          "order": 10,
+          "country": "Poland",
+          "performer": "Isis Gee",
+          "song": "For Life",
+          "language": "English",
+          "place": 24,
+          "points": 14
+        },
+        {
+          "order": 11,
+          "country": "Iceland",
+          "performer": "Euroband",
+          "song": "This Is My Life",
+          "language": "English",
+          "place": 14,
+          "points": 64
+        },
+        {
+          "order": 12,
+          "country": "Turkey",
+          "performer": "Mor ve Ötesi",
+          "song": "Deli",
+          "language": "Turkish",
+          "place": 7,
+          "points": 138
+        },
+        {
+          "order": 13,
+          "country": "Portugal",
+          "performer": "Vânia Fernandes",
+          "song": "Senhora do mar (Negras águas)",
+          "language": "Portuguese",
+          "place": 13,
+          "points": 69
+        },
+        {
+          "order": 14,
+          "country": "Latvia",
+          "performer": "Pirates of the Sea",
+          "song": "Wolves of the Sea",
+          "language": "English",
+          "place": 12,
+          "points": 83
+        },
+        {
+          "order": 15,
+          "country": "Sweden",
+          "performer": "Charlotte Perrelli",
+          "song": "Hero",
+          "language": "English",
+          "place": 18,
+          "points": 47
+        },
+        {
+          "order": 16,
+          "country": "Denmark",
+          "performer": "Simon Mathew",
+          "song": "All Night Long",
+          "language": "English",
+          "place": 15,
+          "points": 60
+        },
+        {
+          "order": 17,
+          "country": "Georgia",
+          "performer": "Diana Gurtskaya",
+          "song": "Peace Will Come",
+          "language": "English",
+          "place": 11,
+          "points": 83
+        },
+        {
+          "order": 18,
+          "country": "Ukraine",
+          "performer": "Ani Lorak",
+          "song": "Shady Lady",
+          "language": "English",
+          "place": 2,
+          "points": 230
+        },
+        {
+          "order": 19,
+          "country": "France",
+          "performer": "Sébastien Tellier",
+          "song": "Divine",
+          "language": "English, French",
+          "place": 19,
+          "points": 47
+        },
+        {
+          "order": 20,
+          "country": "Azerbaijan",
+          "performer": "Elnur and Samir",
+          "song": "Day After Day",
+          "language": "English",
+          "place": 8,
+          "points": 132
+        },
+        {
+          "order": 21,
+          "country": "Greece",
+          "performer": "Kalomira",
+          "song": "Secret Combination",
+          "language": "English",
+          "place": 3,
+          "points": 218
+        },
+        {
+          "order": 22,
+          "country": "Spain",
+          "performer": "Rodolfo Chikilicuatre",
+          "song": "Baila el Chiki-chiki",
+          "language": "Spanish, English",
+          "place": 16,
+          "points": 55
+        },
+        {
+          "order": 23,
+          "country": "Serbia",
+          "performer": "Jelena Tomašević feat. Bora Dugić",
+          "song": "Oro",
+          "language": "Serbian",
+          "place": 6,
+          "points": 160
+        },
+        {
+          "order": 24,
+          "country": "Russia",
+          "performer": "Dima Bilan",
+          "song": "Believe",
+          "language": "English",
+          "place": 1,
+          "points": 272
+        },
+        {
+          "order": 25,
+          "country": "Norway",
+          "performer": "Maria Haukaas Storeng",
+          "song": "Hold On Be Strong",
+          "language": "English",
+          "place": 5,
+          "points": 182
+        }
+      ]
+}

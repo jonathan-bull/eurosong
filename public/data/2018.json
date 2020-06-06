@@ -1,0 +1,165 @@
+{
+    "year" : 2018,
+    "host" : {
+        "country" : "Portugal",
+        "city" : "Lisbon"
+    },
+    "entries" : [
+        {
+            "order" : 1,
+            "country" : "Ukraine",
+            "performer" : "Mélovin",
+            "song" : "Under the Ladder"
+        },
+        {
+            "order" : 2,
+            "country" : "Spain",
+            "performer" : "Amaia & Alfred",
+            "song" : "Tu canción"
+        },
+        {
+            "order" : 3,
+            "country" : "Slovenia",
+            "performer" : "Lea Sirk",
+            "song" : "Hvala, ne!"
+        },
+        {
+            "order" : 4,
+            "country" : "Lithuania",
+            "performer" : "Ieva Zasimauskaitė",
+            "song" : "When We're Old"
+        },
+        {
+            "order" : 5,
+            "country" : "Austria",
+            "performer" : "Cesár Sampson",
+            "song" : "Nobody but You"
+        },
+        {
+            "order" : 6,
+            "country" : "Estonia",
+            "performer" : "Elina Nechayeva",
+            "song" : "La forza"
+        },
+        {
+            "order" : 7,
+            "country" : "Norway",
+            "performer" : "Alexander Rybak",
+            "song" : "That's How You Write a Song"
+        },
+        {
+            "order" : 8,
+            "country" : "Portugal",
+            "performer" : "Cláudia Pascoal",
+            "song" : "O jardim"
+        },
+        {
+            "order" : 9,
+            "country" : "United Kingdom",
+            "performer" : "SuRie",
+            "song" : "Storm"
+        },
+        {
+            "order" : 10,
+            "country" : "Serbia",
+            "performer" : "Sanja Ilić & Balkanika",
+            "song" : "Nova deca"
+        },
+        {
+            "order" : 11,
+            "country" : "Germany",
+            "performer" : "Michael Schulte",
+            "song" : "You Let Me Walk Alone"
+        },
+        {
+            "order" : 12,
+            "country" : "Albania",
+            "performer" : "Eugent Bushpepa",
+            "song" : "Mall"
+        },
+        {
+            "order" : 13,
+            "country" : "France",
+            "performer" : "Madame Monsieur",
+            "song" : "Mercy"
+        },
+        {
+            "order" : 14,
+            "country" : "Czech Republic",
+            "performer" : "Mikolas Josef",
+            "song" : "Lie to Me"
+        },
+        {
+            "order" : 15,
+            "country" : "Denmark",
+            "performer" : "Rasmussen",
+            "song" : "Higher Ground"
+        },
+        {
+            "order" : 16,
+            "country" : "Australia",
+            "performer" : "Jessica Mauboy",
+            "song" : "We Got Love"
+        },
+        {
+            "order" : 17,
+            "country" : "Finland",
+            "performer" : "Saara Aalto",
+            "song" : "Monsters"
+        },
+        {
+            "order" : 18,
+            "country" : "Bulgaria",
+            "performer" : "Equinox",
+            "song" : "Bones"
+        },
+        {
+            "order" : 19,
+            "country" : "Moldova",
+            "performer" : "DoReDoS",
+            "song" : "My Lucky Day"
+        },
+        {
+            "order" : 20,
+            "country" : "Sweden",
+            "performer" : "Benjamin Ingrosso",
+            "song" : "Dance You Off"
+        },
+        {
+            "order" : 21,
+            "country" : "Hungary",
+            "performer" : "AWS",
+            "song" : "Viszlát nyár"
+        },
+        {
+            "order" : 22,
+            "country" : "Israel",
+            "performer" : "Netta",
+            "song" : "Toy"
+        },
+        {
+            "order" : 23,
+            "country" : "Netherlands",
+            "performer" : "Waylon",
+            "song" : "Outlaw in 'Em"
+        },
+        {
+            "order" : 24,
+            "country" : "Ireland",
+            "performer" : "Ryan O'Shaughnessy",
+            "song" : "Together"
+        },
+        {
+            "order" : 25,
+            "country" : "Cyprus",
+            "performer" : "Eleni Foureira",
+            "song" : "Fuego"
+        },
+        {
+            "order" : 26,
+            "country" : "Italy",
+            "performer" : "Ermal Meta & Fabrizio Moro",
+            "song" : "Non mi avete fatto niente"
+        },
+    ]
+}

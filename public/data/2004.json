@@ -1,0 +1,225 @@
+{
+    "year" : 2004,
+    "host" : {
+        "country" : "Turkey",
+        "city" : "Istanbul"
+    },
+    "entries" : [
+        {
+          "order": 1,
+          "country": "Spain",
+          "performer": "Ramón",
+          "song": "Para llenarme de ti",
+          "language": "Spanish",
+          "place": 10,
+          "points": 87
+        },
+        {
+          "order": 2,
+          "country": "Austria",
+          "performer": "Tie Break",
+          "song": "Du bist",
+          "language": "German",
+          "place": 21,
+          "points": 9
+        },
+        {
+          "order": 3,
+          "country": "Norway",
+          "performer": "Knut Anders Sørum",
+          "song": "High",
+          "language": "English",
+          "place": 24,
+          "points": 3
+        },
+        {
+          "order": 4,
+          "country": "France",
+          "performer": "Jonatan Cerrada",
+          "song": "À chaque pas",
+          "language": "French, Spanish",
+          "place": 15,
+          "points": 40
+        },
+        {
+          "order": 5,
+          "country": "Serbia and Montenegro",
+          "performer": "Željko Joksimović & Ad-Hoc Orchestra",
+          "song": "Lane moje",
+          "language": "Serbian",
+          "place": 2,
+          "points": 263
+        },
+        {
+          "order": 6,
+          "country": "Malta",
+          "performer": "Julie and Ludwig",
+          "song": "On Again... Off Again",
+          "language": "English",
+          "place": 12,
+          "points": 50
+        },
+        {
+          "order": 7,
+          "country": "Netherlands",
+          "performer": "Re-Union",
+          "song": "Without You",
+          "language": "English",
+          "place": 20,
+          "points": 11
+        },
+        {
+          "order": 8,
+          "country": "Germany",
+          "performer": "Max",
+          "song": "Can't Wait Until Tonight",
+          "language": "English, Turkish",
+          "place": 8,
+          "points": 93
+        },
+        {
+          "order": 9,
+          "country": "Albania",
+          "performer": "Anjeza Shahini",
+          "song": "The Image of You",
+          "language": "English",
+          "place": 7,
+          "points": 106
+        },
+        {
+          "order": 10,
+          "country": "Ukraine",
+          "performer": "Ruslana",
+          "song": "Wild Dances",
+          "language": "English",
+          "place": "Ukrainian",
+          "points": 1
+        },
+        {
+          "order": 11,
+          "country": "Croatia",
+          "performer": "Ivan Mikulić",
+          "song": "You Are the Only One",
+          "language": "English",
+          "place": 12,
+          "points": 50
+        },
+        {
+          "order": 12,
+          "country": "Bosnia and Herzegovina",
+          "performer": "Deen",
+          "song": "In the Disco",
+          "language": "English",
+          "place": 9,
+          "points": 91
+        },
+        {
+          "order": 13,
+          "country": "Belgium",
+          "performer": "Xandee",
+          "song": "1 Life",
+          "language": "English",
+          "place": 22,
+          "points": 7
+        },
+        {
+          "order": 14,
+          "country": "Russia",
+          "performer": "Julia Savicheva",
+          "song": "Believe Me",
+          "language": "English",
+          "place": 11,
+          "points": 67
+        },
+        {
+          "order": 15,
+          "country": "Macedonia",
+          "performer": "Toše Proeski",
+          "song": "Life",
+          "language": "English",
+          "place": 14,
+          "points": 47
+        },
+        {
+          "order": 16,
+          "country": "Greece",
+          "performer": "Sakis Rouvas",
+          "song": "Shake It",
+          "language": "English",
+          "place": 3,
+          "points": 252
+        },
+        {
+          "order": 17,
+          "country": "Iceland",
+          "performer": "Jónsi",
+          "song": "Heaven",
+          "language": "English",
+          "place": 19,
+          "points": 16
+        },
+        {
+          "order": 18,
+          "country": "Ireland",
+          "performer": "Chris Doran",
+          "song": "If My World Stopped Turning",
+          "language": "English",
+          "place": 22,
+          "points": 7
+        },
+        {
+          "order": 19,
+          "country": "Poland",
+          "performer": "Blue Café",
+          "song": "Love Song",
+          "language": "English, Spanish",
+          "place": 17,
+          "points": 27
+        },
+        {
+          "order": 20,
+          "country": "United Kingdom",
+          "performer": "James Fox",
+          "song": "Hold On to Our Love",
+          "language": "English",
+          "place": 16,
+          "points": 29
+        },
+        {
+          "order": 21,
+          "country": "Cyprus",
+          "performer": "Lisa Andreas",
+          "song": "Stronger Every Minute",
+          "language": "English",
+          "place": 5,
+          "points": 170
+        },
+        {
+          "order": 22,
+          "country": "Turkey",
+          "performer": "Athena",
+          "song": "For Real",
+          "language": "English",
+          "place": 4,
+          "points": 195
+        },
+        {
+          "order": 23,
+          "country": "Romania",
+          "performer": "Sanda",
+          "song": "I Admit",
+          "language": "English",
+          "place": 18,
+          "points": 18
+        },
+        {
+          "order": 24,
+          "country": "Sweden",
+          "performer": "Lena Philipsson",
+          "song": "It Hurts",
+          "language": "English",
+          "place": 5,
+          "points": 170
+        }
+      ]
+}

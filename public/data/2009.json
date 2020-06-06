@@ -6,156 +6,231 @@
     },
     "entries" : [
         {
-            "order" : 1,
-            "country" : "Lithuania",
-            "performer" : "Sasha Son",
-            "song" : "Love"
+          "order": 1,
+          "country": "Lithuania",
+          "performer": "Sasha Son",
+          "song": "Love",
+          "language": "English",
+          "place": "Russian",
+          "points": 23
         },
         {
-            "order" : 2,
-            "country" : "Israel",
-            "performer" : "Noa and Mia Awad",
-            "song" : "There Must Be Another Way"
+          "order": 2,
+          "country": "Israel",
+          "performer": "Noa and Mira Awad",
+          "song": "There Must Be Another Way",
+          "language": "English, Hebrew, Arabic",
+          "place": 16,
+          "points": 53
         },
         {
-            "order" : 3,
-            "country" : "France",
-            "performer" : "Patricia Kaas",
-            "song" : "Et s'il fallait le faire"
+          "order": 3,
+          "country": "France",
+          "performer": "Patricia Kaas",
+          "song": "Et s'il fallait le faire",
+          "language": "French",
+          "place": 8,
+          "points": 107
         },
         {
-            "order" : 4,
-            "country" : "Sweden",
-            "performer" : "Malena Ernman",
-            "song" : "La voix"
+          "order": 4,
+          "country": "Sweden",
+          "performer": "Malena Ernman",
+          "song": "La voix",
+          "language": "English, French",
+          "place": 21,
+          "points": 33
         },
         {
-            "order" : 5,
-            "country" : "Croatia",
-            "performer" : "Igor Cukrov feat. Andrea",
-            "song" : "Lijepa Tena"
+          "order": 5,
+          "country": "Croatia",
+          "performer": "Igor Cukrov feat. Andrea",
+          "song": "Lijepa Tena",
+          "language": "Croatian",
+          "place": 18,
+          "points": 45
         },
         {
-            "order" : 6,
-            "country" : "Portugal",
-            "performer" : "Flor-de-Lis",
-            "song" : "Todas as ruas do amor"
+          "order": 6,
+          "country": "Portugal",
+          "performer": "Flor-de-Lis",
+          "song": "Todas as ruas do amor",
+          "language": "Portuguese",
+          "place": 15,
+          "points": 57
         },
         {
-            "order" : 7,
-            "country" : "Iceland",
-            "performer" : "Yohanna",
-            "song" : "Is It True?"
+          "order": 7,
+          "country": "Iceland",
+          "performer": "Yohanna",
+          "song": "Is It True?",
+          "language": "English",
+          "place": 2,
+          "points": 218
         },
         {
-            "order" : 8,
-            "country" : "Greece",
-            "performer" : "Sakis Rouvas",
-            "song" : "This Is Our Night"
+          "order": 8,
+          "country": "Greece",
+          "performer": "Sakis Rouvas",
+          "song": "This Is Our Night",
+          "language": "English",
+          "place": 7,
+          "points": 120
         },
         {
-            "order" : 9,
-            "country" : "Armenia",
-            "performer" : "Inga and Anush",
-            "song" : "Jan Jan"
+          "order": 9,
+          "country": "Armenia",
+          "performer": "Inga and Anush",
+          "song": "Jan Jan",
+          "language": "English, Armenian",
+          "place": 10,
+          "points": 92
         },
         {
-            "order" : 10,
-            "country" : "Russia",
-            "performer" : "Anastasiya Prikhodko",
-            "song" : "Mamo"
+          "order": 10,
+          "country": "Russia",
+          "performer": "Anastasiya Prikhodko",
+          "song": "Mamo",
+          "language": "Russian, Ukrainian",
+          "place": 11,
+          "points": 91
         },
         {
-            "order" : 11,
-            "country" : "Azerbaijan",
-            "performer" : "AySel and Arash",
-            "song" : "Always"
+          "order": 11,
+          "country": "Azerbaijan",
+          "performer": "AySel and Arash",
+          "song": "Always",
+          "language": "English",
+          "place": 3,
+          "points": 207
         },
         {
-            "order" : 12,
-            "country" : "Bosnia and Herzegovina",
-            "performer" : "Regina",
-            "song" : "Bistra voda"
+          "order": 12,
+          "country": "Bosnia and Herzegovina",
+          "performer": "Regina",
+          "song": "Bistra voda",
+          "language": "Bosnian",
+          "place": 9,
+          "points": 106
         },
         {
-            "order" : 13,
-            "country" : "Moldova",
-            "performer" : "Nelly Ciobanu",
-            "song" : "Hora din Moldova"
+          "order": 13,
+          "country": "Moldova",
+          "performer": "Nelly Ciobanu",
+          "song": "Hora din Moldova",
+          "language": "Romanian, English",
+          "place": 14,
+          "points": 69
         },
         {
-            "order" : 14,
-            "country" : "Malta",
-            "performer" : "Chiara",
-            "song" : "What If We"
+          "order": 14,
+          "country": "Malta",
+          "performer": "Chiara",
+          "song": "What If We",
+          "language": "English",
+          "place": 22,
+          "points": 31
         },
         {
-            "order" : 15,
-            "country" : "Estonia",
-            "performer" : "Urban Symphony",
-            "song" : "Rändajad"
+          "order": 15,
+          "country": "Estonia",
+          "performer": "Urban Symphony",
+          "song": "Rändajad",
+          "language": "Estonian",
+          "place": 6,
+          "points": 129
         },
         {
-            "order" : 16,
-            "country" : "Denmark",
-            "performer" : "Niels Brinck",
-            "song" : "Believe Again"
+          "order": 16,
+          "country": "Denmark",
+          "performer": "Niels Brinck",
+          "song": "Believe Again",
+          "language": "English",
+          "place": 13,
+          "points": 74
         },
         {
-            "order" : 17,
-            "country" : "Germany",
-            "performer" : "Alex Swings Oscar Sings!",
-            "song" : "Miss Kiss Kiss Bang"
+          "order": 17,
+          "country": "Germany",
+          "performer": "Alex Swings Oscar Sings!",
+          "song": "Miss Kiss Kiss Bang",
+          "language": "English",
+          "place": 20,
+          "points": 35
         },
         {
-            "order" : 18,
-            "country" : "Turkey",
-            "performer" : "Hadise",
-            "song" : "Düm Tek Tek"
+          "order": 18,
+          "country": "Turkey",
+          "performer": "Hadise",
+          "song": "Düm Tek Tek",
+          "language": "English, Turkish",
+          "place": 4,
+          "points": 177
         },
         {
-            "order" : 19,
-            "country" : "Albania",
-            "performer" : "Kejsi Tola",
-            "song" : "Carry Me in Your Dreams"
+          "order": 19,
+          "country": "Albania",
+          "performer": "Kejsi Tola",
+          "song": "Carry Me in Your Dreams",
+          "language": "English",
+          "place": 17,
+          "points": 48
         },
         {
-            "order" : 20,
-            "country" : "Norway",
-            "performer" : "Alexander Rybak",
-            "song" : "Fairytale"
+          "order": 20,
+          "country": "Norway",
+          "performer": "Alexander Rybak",
+          "song": "Fairytale",
+          "language": "English",
+          "place": 1,
+          "points": 387
         },
         {
-            "order" : 21,
-            "country" : "Ukraine",
-            "performer" : "Svetlana Loboda",
-            "song" : "Be My Valentine"
+          "order": 21,
+          "country": "Ukraine",
+          "performer": "Svetlana Loboda",
+          "song": "Be My Valentine",
+          "language": "English",
+          "place": 12,
+          "points": 76
         },
         {
-            "order" : 22,
-            "country" : "Romania",
-            "performer" : "Elena",
-            "song" : "The Balkan Girls"
+          "order": 22,
+          "country": "Romania",
+          "performer": "Elena",
+          "song": "The Balkan Girls",
+          "language": "English",
+          "place": 19,
+          "points": 40
         },
         {
-            "order" : 23,
-            "country" : "United Kingdom",
-            "performer" : "Jade Ewen",
-            "song" : "It's My Time"
+          "order": 23,
+          "country": "United Kingdom",
+          "performer": "Jade Ewen",
+          "song": "It's My Time",
+          "language": "English",
+          "place": 5,
+          "points": 173
         },
         {
-            "order" : 24,
-            "country" : "Finland",
-            "performer" : "Waldo's People",
-            "song" : "Lose Control"
+          "order": 24,
+          "country": "Finland",
+          "performer": "Waldo's People",
+          "song": "Lose Control",
+          "language": "English",
+          "place": 25,
+          "points": 22
         },
         {
-            "order" : 25,
-            "country" : "Spain",
-            "performer" : "Soraya Arnelas",
-            "song" : "La noche es para mí"
+          "order": 25,
+          "country": "Spain",
+          "performer": "Soraya Arnelas",
+          "song": "La noche es para mí",
+          "language": "Spanish, English",
+          "place": 24,
+          "points": 23
         }
-    ]
+      ]
 }
 
 

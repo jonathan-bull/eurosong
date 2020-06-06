@@ -1,0 +1,243 @@
+{
+    "year" : 2014,
+    "host" : {
+        "country" : "Denmark",
+        "city" : "Copenhagen"
+    },
+    "entries" : [
+            {
+              "order": 1,
+              "country": "Ukraine",
+              "performer": "Mariya Yaremchuk",
+              "song": "Tick-Tock",
+              "language": "English",
+              "place": 6,
+              "points": 113
+            },
+            {
+              "order": 2,
+              "country": "Belarus",
+              "performer": "Teo",
+              "song": "Cheesecake",
+              "language": "English",
+              "place": 16,
+              "points": 43
+            },
+            {
+              "order": 3,
+              "country": "Azerbaijan",
+              "performer": "Dilara Kazimova",
+              "song": "Start a Fire",
+              "language": "English",
+              "place": 22,
+              "points": 33
+            },
+            {
+              "order": 4,
+              "country": "Iceland",
+              "performer": "Pollapönk",
+              "song": "No Prejudice",
+              "language": "English",
+              "place": 15,
+              "points": 58
+            },
+            {
+              "order": 5,
+              "country": "Norway",
+              "performer": "Carl Espen",
+              "song": "Silent Storm",
+              "language": "English",
+              "place": 8,
+              "points": 88
+            },
+            {
+              "order": 6,
+              "country": "Romania",
+              "performer": "Paula Seling & Ovi",
+              "song": "Miracle",
+              "language": "English",
+              "place": 12,
+              "points": 72
+            },
+            {
+              "order": 7,
+              "country": "Armenia",
+              "performer": "Aram MP3",
+              "song": "Not Alone",
+              "language": "English",
+              "place": 4,
+              "points": 174
+            },
+            {
+              "order": 8,
+              "country": "Montenegro",
+              "performer": "Sergej Ćetković",
+              "song": "Moj svijet",
+              "language": "Montenegrin",
+              "place": 19,
+              "points": 37
+            },
+            {
+              "order": 9,
+              "country": "Poland",
+              "performer": "Donatan & Cleo",
+              "song": "My Słowianie – We Are Slavic",
+              "language": "Polish, English",
+              "place": 14,
+              "points": 62
+            },
+            {
+              "order": 10,
+              "country": "Greece",
+              "performer": "Freaky Fortune feat. RiskyKidd",
+              "song": "Rise Up",
+              "language": "English",
+              "place": 20,
+              "points": 35
+            },
+            {
+              "order": 11,
+              "country": "Austria",
+              "performer": "Conchita Wurst",
+              "song": "Rise Like a Phoenix",
+              "language": "English",
+              "place": 1,
+              "points": 290
+            },
+            {
+              "order": 12,
+              "country": "Germany",
+              "performer": "Elaiza",
+              "song": "Is It Right",
+              "language": "English",
+              "place": 18,
+              "points": 39
+            },
+            {
+              "order": 13,
+              "country": "Sweden",
+              "performer": "Sanna Nielsen",
+              "song": "Undo",
+              "language": "English",
+              "place": 3,
+              "points": 218
+            },
+            {
+              "order": 14,
+              "country": "France",
+              "performer": "TWIN TWIN",
+              "song": "Moustache",
+              "language": "French2",
+              "place": 26,
+              "points": 2
+            },
+            {
+              "order": 15,
+              "country": "Russia",
+              "performer": "Tolmachevy Sisters",
+              "song": "Shine",
+              "language": "English",
+              "place": 7,
+              "points": 89
+            },
+            {
+              "order": 16,
+              "country": "Italy",
+              "performer": "Emma",
+              "song": "La mia città",
+              "language": "Italian3",
+              "place": 21,
+              "points": 33
+            },
+            {
+              "order": 17,
+              "country": "Slovenia",
+              "performer": "Tinkara Kovač",
+              "song": "Round and Round",
+              "language": "English, Slovene",
+              "place": 25,
+              "points": 9
+            },
+            {
+              "order": 18,
+              "country": "Finland",
+              "performer": "Softengine",
+              "song": "Something Better",
+              "language": "English",
+              "place": 11,
+              "points": 72
+            },
+            {
+              "order": 19,
+              "country": "Spain",
+              "performer": "Ruth Lorenzo",
+              "song": "Dancing in the Rain",
+              "language": "English, Spanish",
+              "place": 10,
+              "points": 74
+            },
+            {
+              "order": 20,
+              "country": "Switzerland",
+              "performer": "Sebalter",
+              "song": "Hunter of Stars",
+              "language": "English",
+              "place": 13,
+              "points": 64
+            },
+            {
+              "order": 21,
+              "country": "Hungary",
+              "performer": "András Kállay-Saunders",
+              "song": "Running",
+              "language": "English",
+              "place": 5,
+              "points": 143
+            },
+            {
+              "order": 22,
+              "country": "Malta",
+              "performer": "Firelight",
+              "song": "Coming Home",
+              "language": "English",
+              "place": 23,
+              "points": 32
+            },
+            {
+              "order": 23,
+              "country": "Denmark",
+              "performer": "Basim",
+              "song": "Cliché Love Song",
+              "language": "English",
+              "place": 9,
+              "points": 74
+            },
+            {
+              "order": 24,
+              "country": "Netherlands",
+              "performer": "The Common Linnets",
+              "song": "Calm After the Storm",
+              "language": "English",
+              "place": 2,
+              "points": 238
+            },
+            {
+              "order": 25,
+              "country": "San Marino",
+              "performer": "Valentina Monetta",
+              "song": "Maybe",
+              "language": "English",
+              "place": 24,
+              "points": 14
+            },
+            {
+              "order": 26,
+              "country": "United Kingdom",
+              "performer": "Molly",
+              "song": "Children of the Universe",
+              "language": "English",
+              "place": 17,
+              "points": 40
+            }
+    ]
+}

@@ -1,0 +1,225 @@
+{
+    "year" : 2000,
+    "host" : {
+        "country" : "Sweden",
+        "city" : "Stockholm"
+    },
+    "entries" : [
+        {
+          "order": 1,
+          "country": "Israel",
+          "performer": "PingPong",
+          "song": "Sameach",
+          "language": "Hebrew",
+          "place": 22,
+          "points": 7
+        },
+        {
+          "order": 2,
+          "country": "Netherlands",
+          "performer": "Linda Wagenmakers",
+          "song": "No Goodbyes",
+          "language": "English",
+          "place": 13,
+          "points": 40
+        },
+        {
+          "order": 3,
+          "country": "United Kingdom",
+          "performer": "Nicki French",
+          "song": "Don't Play That Song Again",
+          "language": "English",
+          "place": 16,
+          "points": 28
+        },
+        {
+          "order": 4,
+          "country": "Estonia",
+          "performer": "Ines",
+          "song": "Once in a Lifetime",
+          "language": "English",
+          "place": 4,
+          "points": 98
+        },
+        {
+          "order": 5,
+          "country": "France",
+          "performer": "Sofia Mestari",
+          "song": "On aura le ciel",
+          "language": "French",
+          "place": 23,
+          "points": 5
+        },
+        {
+          "order": 6,
+          "country": "Romania",
+          "performer": "Taxi",
+          "song": "The Moon",
+          "language": "English",
+          "place": 17,
+          "points": 25
+        },
+        {
+          "order": 7,
+          "country": "Malta",
+          "performer": "Claudette Pace",
+          "song": "Desire",
+          "language": "English",
+          "place": 8,
+          "points": 73
+        },
+        {
+          "order": 8,
+          "country": "Norway",
+          "performer": "Charmed",
+          "song": "My Heart Goes Boom",
+          "language": "English",
+          "place": 11,
+          "points": 57
+        },
+        {
+          "order": 9,
+          "country": "Russia",
+          "performer": "Alsou",
+          "song": "Solo",
+          "language": "English",
+          "place": 2,
+          "points": 155
+        },
+        {
+          "order": 10,
+          "country": "Belgium",
+          "performer": "Nathalie Sorce",
+          "song": "Envie de vivre",
+          "language": "French",
+          "place": 24,
+          "points": 2
+        },
+        {
+          "order": 11,
+          "country": "Cyprus",
+          "performer": "Voice",
+          "song": "Nomiza",
+          "language": "Greek, Italian",
+          "place": 21,
+          "points": 8
+        },
+        {
+          "order": 12,
+          "country": "Iceland",
+          "performer": "August & Telma",
+          "song": "Tell Me!",
+          "language": "English",
+          "place": 12,
+          "points": 45
+        },
+        {
+          "order": 13,
+          "country": "Spain",
+          "performer": "Serafín Zubiri",
+          "song": "Colgado de un sueño",
+          "language": "Spanish",
+          "place": 18,
+          "points": 18
+        },
+        {
+          "order": 14,
+          "country": "Denmark",
+          "performer": "Olsen Brothers",
+          "song": "Fly on the Wings of Love",
+          "language": "English",
+          "place": 1,
+          "points": 195
+        },
+        {
+          "order": 15,
+          "country": "Germany",
+          "performer": "Stefan Raab",
+          "song": "Wadde hadde dudde da?",
+          "language": "German, English",
+          "place": 5,
+          "points": 96
+        },
+        {
+          "order": 16,
+          "country": "Switzerland",
+          "performer": "Jane Bogaert",
+          "song": "La vita cos'è?",
+          "language": "Italian",
+          "place": 20,
+          "points": 14
+        },
+        {
+          "order": 17,
+          "country": "Croatia",
+          "performer": "Goran Karan",
+          "song": "Kad zaspu anđeli",
+          "language": "Croatian",
+          "place": 9,
+          "points": 70
+        },
+        {
+          "order": 18,
+          "country": "Sweden",
+          "performer": "Roger Pontare",
+          "song": "When Spirits Are Calling My Name",
+          "language": "English",
+          "place": 7,
+          "points": 88
+        },
+        {
+          "order": 19,
+          "country": "Macedonia",
+          "performer": "XXL",
+          "song": "100% te ljubam",
+          "language": "Macedonian, English",
+          "place": 15,
+          "points": 29
+        },
+        {
+          "order": 20,
+          "country": "Finland",
+          "performer": "Nina Åström",
+          "song": "A Little Bit",
+          "language": "English",
+          "place": 18,
+          "points": 18
+        },
+        {
+          "order": 21,
+          "country": "Latvia",
+          "performer": "Brainstorm",
+          "song": "My Star",
+          "language": "English",
+          "place": 3,
+          "points": 136
+        },
+        {
+          "order": 22,
+          "country": "Turkey",
+          "performer": "Pınar Ayhan & The SOS",
+          "song": "Yorgunum Anla",
+          "language": "Turkish, English",
+          "place": 10,
+          "points": 59
+        },
+        {
+          "order": 23,
+          "country": "Ireland",
+          "performer": "Eamonn Toal",
+          "song": "Millennium of Love",
+          "language": "English",
+          "place": 6,
+          "points": 92
+        },
+        {
+          "order": 24,
+          "country": "Austria",
+          "performer": "The Rounder Girls",
+          "song": "All to You",
+          "language": "English",
+          "place": 14,
+          "points": 34
+        }
+      ]
+}
